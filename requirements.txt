@@ -1,0 +1,6 @@
+langchain-community
+dotenv
+datasets
+tqdm
+matplotlib
+scikit-learn

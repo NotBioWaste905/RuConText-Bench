@@ -212,7 +212,7 @@ sentence,suggested ellipsis resolution,ellipsis type,source
 "Мы очень хотим путешествовать по Украине, но сейчас не можем __.",путешествовать по Украине,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt
 "Они попросили меня пойти на озеро, но у меня нет времени __.",пойти на озеро,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt
 "Я не ем столько, как он __.",ест,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt
-"Она знает больше о своей стране, чем он __.","знает о своей стране, знает о ее стране",VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt
+"Она знает больше о своей стране, чем он __.","знает о своей стране",VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt
 "Моя девушка хочет в кино всегда, а я никогда __.",не хочу в кино,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt
 "Мы пришли сюда, потому что мы хотели __.",прийти сюда,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt
 "Хорошие студенты всегда делают домашки, а плохие студенты никогда __.",не делают домашки,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt

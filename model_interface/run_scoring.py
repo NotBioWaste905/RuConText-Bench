@@ -59,6 +59,9 @@ def score_ellipsis(model_name, temperature):
     # Create DataFrame
     model_answers_dict = {'initial': start, 'ellipsis': with_, 'final': final}
     model_answers_df = pd.DataFrame.from_dict(model_answers_dict)
+    tokenizer = RobertaTokenizerFast.from_pretrained('blinoff/roberta-base-russian-v0', max_len=512)
+
+    r_scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], tokenizer=tokenizer)
 
     # Save answers to CSV
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -70,11 +73,47 @@ def score_ellipsis(model_name, temperature):
     golden_answers_clean = [re.sub(r'ё', r'е', ans.translate(str.maketrans('', '', string.punctuation)).lower()) for ans in answers_golden]
 
     for_metrics = [1 if model_answers_clean[i] == golden_answers_clean[i] else 0 for i in range(len(model_answers_clean))]
+    
+    # Initialize Rouge Scorer
+    tokenizer = RobertaTokenizerFast.from_pretrained('blinoff/roberta-base-russian-v0', max_len=512)
+    r_scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], tokenizer=tokenizer)
+
+    rouge1_precision = []
+    rouge1_recall = []
+    rouge1_f = []
+    rouge2_precision = []
+    rouge2_recall = []
+    rouge2_f = []
+    rougeL_precision = []
+    rougeL_recall = []
+    rougeL_f = []
+
+    for sentence_pair in range(len(model_answers_clean)):
+        sent_pair_r_score = r_scorer.score(model_answers_clean[sentence_pair], golden_answers_clean[sentence_pair])
+        rouge1_precision.append(sent_pair_r_score['rouge1'][0])
+        rouge1_recall.append(sent_pair_r_score['rouge1'][1])
+        rouge1_f.append(sent_pair_r_score['rouge1'][2])
+        rouge2_precision.append(sent_pair_r_score['rouge2'][0])
+        rouge2_recall.append(sent_pair_r_score['rouge2'][1])
+        rouge2_f.append(sent_pair_r_score['rouge2'][2])
+        rougeL_precision.append(sent_pair_r_score['rougeL'][0])
+        rougeL_recall.append(sent_pair_r_score['rougeL'][1])
+        rougeL_f.append(sent_pair_r_score['rougeL'][2])
+
     metrics = {
         'accuracy': accuracy_score([1] * len(for_metrics), for_metrics),
         'recall': recall_score([1] * len(for_metrics), for_metrics),
         'f1': f1_score([1] * len(for_metrics), for_metrics),
-        'precision': precision_score([1] * len(for_metrics), for_metrics)
+        'precision': precision_score([1] * len(for_metrics), for_metrics),
+        'rouge1_precision': np.mean(rouge1_precision),
+        'rouge1_recall': np.mean(rouge1_recall),
+        'rouge1_f': np.mean(rouge1_f),
+        'rouge2_precision': np.mean(rouge2_precision),
+        'rouge2_recall': np.mean(rouge2_recall),
+        'rouge2_f': np.mean(rouge2_f),
+        'rougeL_precision': np.mean(rougeL_precision),
+        'rougeL_recall': np.mean(rougeL_recall),
+        'rougeL_f': np.mean(rougeL_f)
     }
 
     return metrics, filename
@@ -103,9 +142,14 @@ def score_disrpt(model_name, temperature):
             print(e)
 
     # Calculate metrics
-    correct = sum(1 for i in results if i[1]['answer'].lower() == i[2].lower())
+    y_true = [i[2].lower() for i in results]
+    y_pred = [i[1]['answer'].lower() for i in results]
+
     metrics = {
-        'accuracy': correct / len(results)
+        'accuracy': accuracy_score(y_true, y_pred),
+        'recall': recall_score(y_true, y_pred, average='macro'),
+        'f1': f1_score(y_true, y_pred, average='macro'),
+        'precision': precision_score(y_true, y_pred, average='macro')
     }
 
     # Save answers to CSV

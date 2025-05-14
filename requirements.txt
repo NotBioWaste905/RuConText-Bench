@@ -1,6 +1,9 @@
 langchain-community
+langchain_openai
 dotenv
 datasets
 tqdm
 matplotlib
 scikit-learn
+rouge_score
+transformers

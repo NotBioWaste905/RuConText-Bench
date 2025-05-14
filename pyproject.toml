@@ -1,0 +1,18 @@
+[project]
+name = "contextbench-2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=3.6.0",
+    "dotenv>=0.9.9",
+    "ipykernel>=6.29.5",
+    "langchain-community>=0.3.24",
+    "langchain-openai>=0.3.16",
+    "matplotlib>=3.10.3",
+    "rouge-score>=0.1.2",
+    "scikit-learn>=1.6.1",
+    "tqdm>=4.67.1",
+    "transformers>=4.51.3",
+]

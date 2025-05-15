@@ -200,7 +200,7 @@ def score_disrpt(model_name, temperature):
 
     # Calculate metrics
     y_true = [i[2].lower() for i in results]
-    y_pred = [i[1]["answer"].lower() for i in results]
+    y_pred = [i[1].answer.lower() for i in results]
 
     metrics = {
         "accuracy": accuracy_score(y_true, y_pred),
@@ -388,11 +388,11 @@ def score_idioms(model, api_key, base_url, n_samples=50):
 
 def run_all(model_name, temperature):
     print("[INFO] Running all scoring tasks...")
-    ellipsis_metrics, ellipsis_csv = score_ellipsis(model_name, temperature)
-    disrpt_metrics, disrpt_csv = score_disrpt(model_name, temperature)
     idioms_metrics, idioms_csvs = score_idioms(
         model_name, API_KEY, BASE_URL, n_samples=50
     )
+    disrpt_metrics, disrpt_csv = score_disrpt(model_name, temperature)
+    ellipsis_metrics, ellipsis_csv = score_ellipsis(model_name, temperature)
     print("[INFO] All tasks complete. Saving metrics...")
     # Combine metrics
     all_metrics = {

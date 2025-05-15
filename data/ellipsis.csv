@@ -1,0 +1,670 @@
+sentence,suggested ellipsis resolution,ellipsis type,source,id
+"Работа с двухбайтовыми наборами символов — просто кошмар для программиста, так как часть их состоит из одного байта, а часть — __ из двух.",состоит,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_0
+"Выворачивает наизнанку, запад превращает в юг, а север — __ в восток, меняет местами добро и зло, велит открыть своё сердце, ничего не требуя взамен.",превращает,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_1
+"Текущие обязательства компании в 2009 г. сократились на 16% - до 135.3 млн. грн., долгосрочные обязательства уменьшились на 1.7% - до 71.8 млн. грн., а дебиторская задолженность - __ на 3% до 87.7 млн. грн.",уменьшилась,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_2
+"Первая конвенция была ратифицирована 80 процентами государств – членов МОТ, а вторая – __ 87 процентами этих государств.",была ратифицирована,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_3
+"Но Христианин сказал Упрямому: — Нет, сосед, лучше ты последуй примеру Сговорчивого. Мы в самом деле там получим то, о чем я сейчас говорил, а сверх того — __ великую славу.",мы получим,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_4
+"Средний срок действия контрактов в 2000 году для консультантов увеличился на 16 дней, а для индивидуальных подрядчиков — __ на 15 дней.",увеличился,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_5
+"В наше время скромность принимают за высокомерие, а доброту __ за слабость .",принимают,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_6
+"Закон состоит в том, что все вещества, которые разлагаются батареей, являются в жидком состоянии проводниками, а в твердом состоянии __ непроводниками электричества гальванической батареи (393, 394, 404, 407, 413, 505, 676, 679, 697 и др).",являются,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_7
+"Неправильное или слишком быстрое разогревание воска может привести к ожогам, а при хрупкости капилляров __ к появлению сосудистых звездочек на коже.",может привести,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_8
+"Первая группа ворвалась в дом к Идрисовым, вторая __ к Кушаевым.",ворвалась в дом,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_9
+"Сегодня котировки акций на РТС составляют 0,0073 рубля, на ММВБ – __ 0,0069 рубля.",составляют,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_10
+"Плановый уровень доходов республиканского бюджета был увеличен на 14.7% по сравнению с первоначальным уровнем, а __ расходов __ на 13.3%.","плановый уровень, был увеличен","NP-ellipsis, gapping",https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_11
+В данном случае форма напрямую зависит от запроса и косвенно — __ от таблиц.,зависит,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_12
+"Доля данной группы кредитных организаций в активах банковского сектора на 1.01.2007 составила 41,2%, в капитале — __ 35,5% (на 1.01.2006 — __ 45,8 и 38,7% соответственно).","составила, составила",gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_13
+"Я откликнусь на дурака, ты __ на дуру.",откликнешься,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_14
+"Огонь твоей любви защищает нас от бед и ошибок, а материнская молитва — __ от неправильных поступков.",защищает нас,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_15
+"За ними по обе стороны Дэвин увидел работающих в поле людей, некоторые из них были наемными мирянами, некоторые __ жрецами, одетыми не в церемониальный белый цвет, а в поношенные светло-коричневые одежды.",были,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_16
+"Котировки на нефть за январь-февраль 2011 года выросли на 13,5%, за май 2010 года - февраль 2011 года - __ на 37%.",выросли,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_17
+"Сердце оставалось таким же сильным, душа __ такой же целостной.",оставалась,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_18
+"Природа была велика, подвижна, реальна, жизнь человека - __ печальна и радостна.",была,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_19
+"Множество, не являющееся конечным, мы будем называть бесконечным, а его кардинальное число — __ бесконечным или трансфинитным кардинальным числом.",будем называть,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_20
+"Я очень люблю его, а он __ меня.",очень любит,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_21
+"В первом случае мы будем говорить просто об изоморфизме, а во втором — __ об инверсном изоморфизме тел АГ и АГ.",будем говорить,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_22
+"Birch®, Carta®, Mythos®, Quake® и Tekton® являются зарегистрированными товарными знаками, а Adobe Jenson™, технология Adobe Brilliant Screens™ и IntelliSelect™ — __ товарными знаками компании Adobe Systems или ее дочерних компаний, причем последние могут быть зарегистрированы в отдельных странах.","являются, являются зарегистрированными",gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_23
+"Так что через несколько дней Хряк, понятное дело, нервничал, пытаясь одновременно отдать честь, предъявить удостоверение личности и увольнительную, кося при этом одним глазом на Нупа, а другим – __ на вещмешок с радиолампами.",кося,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_24
+"Доля его активов в суммарных активах банковской системы республики составляет около 35%, собственного капитала (в совокупном собственном капитале банков) - __ 55%.",составляет,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_25
+"Валютой отчетности для Группы является доллар США, функциональной валютой - __ российский рубль.",является,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_26
+"Не вызывает удивления и то, что эти пять стран входят в число восьми стран региона, в которых охват полным средним образованием составляет менее 50 процентов, а четыре – __ в число восьми стран, уровень охвата дошкольным образованием в которых ниже 30 процентов (глава 3).",входят,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_27
+"Из стен выступали полки, пока они были пустыми; к середине руля был приделан компас, а к полу – __ жестяная зеленая коробка передатчика с телефонной трубкой.",была приделана,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_28
+"Печать на бумаге формата A4 выполняется со скоростью до 38 стр./мин., а на бумаге формата Letter — __ до 40 стр./мин.",выполняется со скоростью до,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_29
+"Она изображается с двумя вазами: из одной она изливает воду, символ Света, на себя, а из другой __ на землю.",изливает воду,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_30
+"Председателем круглого стола A был заместитель Председателя Совета Жан-Марк Хошайт (Люксембург), а координатором — __ министр экономики и финансов Нигера Али Махаман Ламин Зейн.",был,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_31
+"Быстрее всего восстанавливаются трицепсы, медленнее всего __ мышцы спины.",восстанавливаются ,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_32
+"Размеренный ритм успокаивал, к тому же они говорили о самых обычных вещах: о работе, о мировоззрении… Джун была буддисткой, а Лотти – __ язычницей.",была,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_33
+"Экспорт товаров и услуг по сравнению с I кварталом 2005 г. возрос на 10,9 млрд. ф. стг. (на 14,4%), импорт — __ на 14 млрд. ф. стг. (на 16,1%).",вырос,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_34
+"В настоящее время один проект, начатый в предыдущем отчетном периоде, находится на заключительных этапах осуществления, и два новых — __ на стадии разработки.",проекта находятся,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_35
+"Индекс промышленного производства за январь-февраль 2008 г. составил 106,0%, инвестиций в основной капитал - __ 120,2% и оборота розничной торговли - __ 116,3%.","составил, составил",gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_36
+"Маша получила 6 лайков за фото, а Наташа __ 72 лайка __.","получила, за фото","gapping, PP-ellipsis",https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_37
+"По венам течет кровь, по ручью __ вода.",течет,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_38
+"В соответствии с установившейся практикой Комитета на выступления в ходе общих прений по каждому пункту или группе пунктов повестки дня отводится до 7 минут, а на выступления от имени группы делегаций —__ до 15 минут.",отводится,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_39
+"Магазинчик был маленьким, а мясник и его супруга __ очень большими, поэтому, когда к ним прибавились мы с женой, в лавке стало совсем тесно.",были,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_40
+"Из 10 миллионов армян, разбросанных по всему миру, лишь 3 миллиона живут на исторической родине; более 2 миллионов проживают в России, и еще 1,5 миллиона - __ в Соединенных Штатах.",проживают,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_41
+"Лицо у нее было бледное и широкое, голос – __ густой.",у нее был,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_42
+"Судья посмотрела на свои часы, затем – __ на меня.",посмотрела,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_43
+"Потому что Ты научил меня тому, что прощение является высшим уровнем прочности, а месть - __ высшим уровнем слабости.",является,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_44
+"А потом еще и говорят, мол, чужое мнение надо уважать, а свое __ держать при себе.",мнение надо,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_45
+"И также никогда не задавался вопросом: почему мужчины думают головой, а женщины — __ сердцем.",думают,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_46
+"Однако инвестиционные расходы компаний уменьшились на 6.1%, импорт - __ на 7%.",уменьшился,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_47
+"Хотя по сути ты будешь просто нормальным человеком, а они __ дерьмом.",будут,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_48
+"Упругий элемент одним концом закреплен на шпинделе, а другим концом - __ на насадке.",закреплен,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_49
+"В частности, в Word 2010 блокировка выполняется на уровне абзаца, а в PowerPoint 2010 — __ на уровне слайда.",выполняется,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_50
+"Web-разработчиков привлекает их гибкость и возможности, а системных администраторов - __ маленькое дисковое пространство и простота в обслуживании клиентов .",привлекает,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_51
+"Кому то не хватает бухла , кому то __ сигарет , наркотиков , а мне не хватает спорта и только спорта !)",не хватает,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_52
+"По сравнению с предыдущим годом объем продаж группы Baltika во втором квартале вырос на 13%, а совокупный объем продаж __ на 5%.",вырос,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_53
+"Я смотрел, и каждая улочка казалась мне изящной аллеей, каждый домишко — __ дворцом, а двухэтажные дома — __ небоскребами.","казался, казались",gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_54
+"Менеджмент завода рассчитывает, что участие Renault в данном проекте составит 50% (120 млн евро), а АВТОВАЗа и Nissan - __ по 25% (по 60 млн евро).",составит,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_55
+"За период 1994-1995 годов общий объем объявленных донорами взносов равнялся 1,41 млрд. долл. США, а выплат - __ 900.5 млн. долл. США.",равнялся,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_56
+"При запуске веб-сайта это свойство устанавливается в значение True, а при остановке - __ в значение False.",веб-сайта это свойство устанавливается,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_57
+"Доча кайфует от новых духов и блеска, а я от __ дочи",кайфую,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_58
+"Вот почему, как она и признавалась ему, пансион был для нее чем-то вроде тюрьмы, а ученье – __ наказанием.",было,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_59
+Первое утверждение следует для Q0 и Qoc из 72.1 и теоремы 71.1; для (F) и Q0ic - __ из 72.1 и теоремы 71.Е; для Qon и Q02 доказывается переходом к дополнениям.,следует,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_60
+"Ханна опустилась на колени у носилок, положив одну руку на холодный металл, а другую – __ на плечо умирающего.",положив,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_61
+"Средний уровень безработицы, рассчитанный на базе основных показателей, на Западном берегу в 1998 году составил 12,3 процента, а в секторе Газа - __ 23,5 процента.",составил,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_62
+"В масштабе страны координация и осуществление мероприятий в этой области возлагается на Национальное агентство по делам детей, а на местах – __ на губернаторов провинций.",возлагается,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_63
+"Показатели развивающихся стран по одним категориям товаров свидетельствуют о большом успехе, а по другим - __ о слабости положения.",свидетельствуют,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_64
+"Люди считают дреды, пирсинг и татуировки уродством, а свою жирную, страшную морду __ эталоном красоты.",считают,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_65
+"«Сглаз — это истина. Он загоняет человека в могилу, верблюда — __ в кастрюлю».",загоняет,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_66
+"На наш взгляд, это именно тот подход, благодаря которому мы сможем предоставить нашему государству потенциал для защиты уязвимых слоев населения, а нашим гражданам — __ средства для строительства лучшего будущего.",мы сможем предоставить,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_67
+"Прямое воздействие риска процентных ставок является незначительным, а риска, связанного с обменным курсом — __ несущественным, что объясняется почти полным совпадением чистых позиций в иностранных валютах.",является,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_68
+"Семья была всем, браки – __ ничем.",были,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_69
+"Таким образом, история бронзы в Новом Свете неразрывно связана со Старым Светом, а история олова в Андах, откуда происходит бронза Нового Света, — __ с озером Титикака.",неразрывно связана,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_70
+"Одна секция, расположенная на берегу реки, вполне могла быть городком в самом центре штата Мэн, другая – __ маленьким поселком, типичным для американского Юга, еще одна секция могла быть оживленной улицей крупного города.",вполне могла быть,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_71
+"Рукава в нижней части можно было стянуть шнурками, а саму куртку на талии __ затянуть на шнур, пропущенный в кулиске.",можно было,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_72
+"Левой рукой давите вниз,а правой __ вверх.",давите,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_73
+"Некоторые торговцы отлично продают один вид товаров или услуг, а другие - __ другой.",отлично продают,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_74
+"Количество видов достигло 32, а таксонов - __ 13.",достигло,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_75
+"Беззаботно текла жизнь Водяного цветка, и на всей земле она любила только свою мать - росу, а в небе - __ солнечный луч - своего отца.",любила только,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_76
+"Существование чисел а1, ..., ап обеспечивается полнотой базиса, а их единственность — __ его линейной независимостью.",обеспечивается,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_77
+"За годы войны мощность электростанций в Кузбассе возросла в 1,6 раза, а производство электроэнергии - __ в 2 раза и достигло в 1945 году 2765 млн. кВт-часов.",возросло,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_78
+"Три молодых индейца шли впереди, еще три — __ позади Рейчел.",шли,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_79
+"Вставьте компакт-диск Windows в дисковод для чтения компакт-дисков, а дискету с файлом ответов — __ в дисковод.",вставьте,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_80
+"Объем промышленной продукции по сравнению с I полугодием 2003г. увеличился на 7,4%, __ строительства __ на 14,2%.",объем увеличился,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_81
+"По мере того как стены его темницы продолжали сдвигаться, а сознание __ затуманиваться, им овладевали старые страхи.",продолжало,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_82
+"В эконом-классе днем посадка будет стоить 65 рублей, каждая минута — __ 12 рублей; после 21:00 тариф на посадку повышается до 90 рублей, а каждая минута пути обойдется в 15 рублей.",будет стоить,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_83
+"Я вижу бело-золотое платье, а благодаря тени или фш, белый цвет кажется серым, а золотой - __ коричневым.",цвет коричневым,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_84
+"Кого-то волнует уровень жизни, а кого-то — __ уровень коррупции.",волнует,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_85
+"И тут все ясно: цветы придется покупать, а праздничную атмосферу __ организовывать.",придется,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_86
+"Сначала идет недовольство собой, потом __ миром, потом __ всеми остальными людьми.","недовольство, недовольство",gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_87
+"Mitchell & Burkhauser (1990), используя данные Обследования по вопросам нетрудоспособности и занятости, проведенного в 1978 г., нашли, что артрит снижал заработную плату мужчин на 27,7%, а __ женщин __ на 42,0%.","заработную плату, снижал",gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_88
+"Единица означает минимальную мощность, пять — __ максимальную __.","означает, мощность","gapping, NP-ellipsis",https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_89
+"DuoSwitch является товарным знаком, а Wacom - __ зарегистрированным товарным знаком компании WacomCo.",является,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_90
+"Экипаж вражеского танка состоял из трех ящеров, экипаж «шермана» — __ из пяти человек.",состоял,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_91
+"Ликер видом напоминал вежеталь, а запахом — __ итальянский ликер «стрега».",напоминал,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_92
+"Инвестиции в основной капитал по сравнению с прошлым годом выросли на 48,6%, объем подрядных работ, выполненный строительными организациями - __ на 43%.",вырос,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_93
+"Разложим требуемое отображение в композицию (F), где Pi и p2 — проекции, второе отображение является умножением в кольце A(SrxSr), а последнее __ — __ гомоморфизмом расширения из 5.12.1.","отображение, является",gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_94
+"Каждая из этих категорий затем разбита на различные подкатегории, а большая часть подкатегорий — __ на еще более мелкие подкатегории.",разбита,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_95
+"Справа стояли вооруженные молодые люди, слева — __ женщины и дети.",стояли,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_96
+"Под ее взглядом, полным огромной ответственности за родителей, отец превратился в мальчишку, на которого нельзя положиться, мать – __ в призрак.",превратилась,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_97
+"Чтобы упростить обозначения, все высшие уровни отмечены четными числами, а все низшие уровни - __ нечетными.",отмечены,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_98
+"Здесь красота соседствует с самодисциплиной, а поэзия — __ с искусством войны.",соседствует,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_99
+"Белладонна смотрела куда‑то в пространство и сказала без особого энтузиазма: – Сначала ты делаешь мне, а потом – я __ тебе.",делаю,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_100
+"Одна из них предназначена для взаимодействия с корпусом, а другая __ - с дифференциальным винтом.",предназначена для взаимодействия,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_101
+"Водитель был вооружен пистолетом, кассир рядом с ним – __ винтовкой.",был вооружен,gapping,https://github.com/dialogue-evaluation/AGRR-2019,ellipsis_102
+"Граница Финландии с Россией длинная, __ с Норвегией короткая, а __ со Швецией - средняя.",граница,NP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/NP_ellipsis.txt,ellipsis_103
+"Подруга всегда рекомедует мне новую музыку, но я ещё слушаю старую __.",музыку,NP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/NP_ellipsis.txt,ellipsis_104
+"У меня день рождения в июне, и у моей сестры тоже __",день рождения в июне,NP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/NP_ellipsis.txt,ellipsis_105
+"У нас в городе нет бассейна, а у них есть __.",бассейн,NP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/NP_ellipsis.txt,ellipsis_106
+"Дина купила своей дочери школьные учебники, а Паша не купил __.",своей дочери школьные учебники,NP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/NP_ellipsis.txt,ellipsis_107
+"Cледовательно, бросая камень, мальчик не увеличил его кинетическую энергию, a уменьшил __.",его кинетическую энергию,NP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/NP_ellipsis.txt,ellipsis_108
+"Там знали, что Крымов невиновен, a посадили __.",Крымова,NP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/NP_ellipsis.txt,ellipsis_109
+"Мы купили ту книгу по математике после того, как он купил эту __.",книгу по математике,NP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/NP_ellipsis.txt,ellipsis_110
+"Саша прочитал мою статью, а Дима прочитал твою __.",статью,NP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/NP_ellipsis.txt,ellipsis_111
+"Петя увидел белого зайца после того, как Вася увидел черного __.",зайца,NP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/NP_ellipsis.txt,ellipsis_112
+"Я задал ему три вопроса, а ей только два __.",вопроса,NP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/experiment1_results/task3/Russian_gpt-4-turbo_task3_random_ru_1.csv,ellipsis_113
+"Мы купили новый телевизор, но ещё не установили __.",телевизор,NP_ellipsis,original,ellipsis_114
+"Петя купил красивую кофту, а Ваня уродливую __.",кофту,NP_ellipsis,original,ellipsis_115
+"Мои друзья советуют мне купить красивую машину, но я хочу надежную __.",машину,NP_ellipsis,original,ellipsis_116
+"Я люблю английскую литературу, а паша предпочитает русскую __.",литературу,NP_ellipsis,original,ellipsis_117
+"Сочи яркий город, а Гатчина серый __.",город,NP_ellipsis,original,ellipsis_118
+"Инкассаторы охраняют деньги, а воры похищают __.",деньги,NP_ellipsis,original,ellipsis_119
+"Я заказала ассорти круп, но пока не пробовала __.",ассорти круп,NP_ellipsis,original,ellipsis_120
+"Я открыла чай, но ещё не заварила __.",чай,NP_ellipsis,original,ellipsis_121
+"Я выбрала подарок коллеге, но ещё не заказала __.",подарок,NP_ellipsis,original,ellipsis_122
+"Маша завела будильник на десять, но проснулась, выключила __ и уснула снова.",будильник,NP_ellipsis,original,ellipsis_123
+"Маша обещала забрать сестру в семь, но не забрала __ и не предупредила об этом.",сестру,NP_ellipsis,original,ellipsis_124
+"Ваня хотел повесить постер, но порвал __ и расстроился.",постер,NP_ellipsis,original,ellipsis_125
+"Котёнок пытался поймать муху, но не догнал __ и грустно смотрел ей вслед.",муху,NP_ellipsis,original,ellipsis_126
+"Оля рисовала картину, но опрокинула палитру и не дорисовала __.",картину,NP_ellipsis,original,ellipsis_127
+"В магазине было много яблок, я выбрал самые спелые __ и купил __.","яблоки, яблоки",NP_ellipsis,original,ellipsis_128
+Ваня не увидел в задаче минус и решил __ неправильно.,задачу,NP_ellipsis,original,ellipsis_129
+"Диана иногда покупает полуфабрикаты, а Маша никогда не покупает __.",полуфабрикаты,NP_ellipsis,original,ellipsis_130
+"Мария Ивановна отправляет студентам демоверсии, а Любовь Петровна не отправляет __.",демоверсии,NP_ellipsis,original,ellipsis_131
+"Ученики 5 ""А"" приносят конфеты одноклассникам в день рождения, а ученики 5 ""Б"" не приносят __.",конфеты одноклассникам,NP_ellipsis,original,ellipsis_132
+"Ольга Викторовна проверила контрольные работы, а Ксения Денисовна не проверила __.",контрольные работы,NP_ellipsis,original,ellipsis_133
+"Маша связала игрушку, а Катя сшила __.",игрушку,NP_ellipsis,original,ellipsis_134
+"Амир не сдал экзамен, расстроился, занервничал и потом сдал __.",экзамен,NP_ellipsis,original,ellipsis_135
+"Маруся написала текст, а Ольга Викторовна не проверила __.",текст,NP_ellipsis,original,ellipsis_136
+"Катя взяла из библиотеки книгу, но вернуть не успела __.",книгу,NP_ellipsis,original,ellipsis_137
+"Андрей написал письмо другу, но отправить __ не успел.",письмо,NP_ellipsis,original,ellipsis_138
+"Учительница задала домашнее задание, но никто не выполнил __.",домашнее задание,NP_ellipsis,original,ellipsis_139
+"Бабушка испекла пирог, но попробовать __ удалось только утром",пирог,NP_ellipsis,original,ellipsis_140
+"Маша купила новый альбом, но забыла __ дома",альбом,NP_ellipsis,original,ellipsis_141
+"Вчера мы смотрели фильм, обсудить __ не успели",фильм,NP_ellipsis,original,ellipsis_142
+"Мы купили билеты на концерт, только найти __ перед выходом не смогли.",билеты,NP_ellipsis,original,ellipsis_143
+"Лена потеряла ключи, а Юля нашла __.",ключи,NP_ellipsis,original,ellipsis_144
+"Петя организовал встречу, а Витя отменил __.",встречу,NP_ellipsis,original,ellipsis_145
+"Сергей купил машину, а Евгений продал __.",машину,NP_ellipsis,original,ellipsis_146
+"Лиля сочинила стих-поздравление Пете, а Маша и Витя не сочинили __.",стих-поздравление,NP_ellipsis,original,ellipsis_147
+"Петя помыл свою машину, а Ваня свою __.",машину,NP_ellipsis,original,ellipsis_148
+"Маша связала платье, и Вика тоже связала __.",платье,NP_ellipsis,original,ellipsis_149
+"Леня уже работает учёным, а Костя только хочет работать __.",ученым,NP_ellipsis,original,ellipsis_150
+"Вера хочет приготовить макароны, хотя Галина уже приготовила __.",макароны,NP_ellipsis,original,ellipsis_151
+"Петя просит купить ему красную машинку, потому что Вите купили синюю __.",машинку,NP_ellipsis,original,ellipsis_152
+"Лена носит платья только по выходным, а Тамара вообще не носит __.",платья,NP_ellipsis,original,ellipsis_153
+"Кирилл играет на акустической гитаре, поэтому Максим учится играть на электронной __.",гитаре,NP_ellipsis,original,ellipsis_154
+Здравствуйте! А вы читали книгу «Пиранези» Сюзанны Кларк? Сейчас читаю __.,книгу «Пиранези» Сюзанны Кларк,NP_ellipsis,original,ellipsis_155
+"Стас, пропустили два колеса и руль, а так велик в комплекте!
+Я о том же! Собирать-то __ давно начал.",велик,NP_ellipsis,[Форум: Горный двухподвесочный (2010)],ellipsis_156
+"Маша нашла мой телефон, а твой __ она пока не нашла.",телефон,NP_ellipsis,"Kasenov, D. (2025). An NP ellipsis version of the adnominal theory for Russian long form adjectives.",ellipsis_157
+"Маша нашла мою зарядку, а твою __ она пока не нашла.",зарядку,NP_ellipsis,"Kasenov, D. (2025). An NP ellipsis version of the adnominal theory for Russian long form adjectives.",ellipsis_158
+"Маша нашла мое разрешение, а твое __ она пока не нашла.",разрешение,NP_ellipsis,"Kasenov, D. (2025). An NP ellipsis version of the adnominal theory for Russian long form adjectives.",ellipsis_159
+"Мой единственный зонт я купил, а ты все свои __ украл.",зонты,NP_ellipsis,"Kasenov, D. (2025). An NP ellipsis version of the adnominal theory for Russian long form adjectives.",ellipsis_160
+"Все мои чашки помыл я, а твою __ чашку не трогал.",чашку,NP_ellipsis,"Kasenov, D. (2025). An NP ellipsis version of the adnominal theory for Russian long form adjectives.",ellipsis_161
+"Мне очень нравятся высокие каменные дома, а Васе нравятся низкие деревянные __.",дома,NP_ellipsis,"Kasenov, D. (2025). An NP ellipsis version of the adnominal theory for Russian long form adjectives.",ellipsis_162
+"Этот пейзаж был написан пять лет назад, а тот __ не закончен до сих пор.",пейзаж,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_163
+"Её работу взяли на выставку, а мою __ продали на аукционе.",работу,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_164
+"Пять полотен сгорели при пожаре, а семь __ были утеряны при переезде.",полотен,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_165
+"Вход на основную экспозицию бесплатный, а на временную __ осуществляется по приобретённым в кассе билетам.",экспозицию,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_166
+"Мы купили альбом в мягкой обложке, а вы купили __ в твёрдом переплёте.",альбом,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_167
+"Тупогуб бык, и Бурёнка тоже __.",корова,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_168
+"Бурёнка корова, и Тупогуб тоже __.",бык,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_169
+"Петя дежурный, и Маша тоже __.",дежурная,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_170
+"Маша дежурная, и Петя тоже __.",дежурный,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_171
+"Витя адвокат, и Даша тоже __.",адвокат,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_172
+"Костя тупица, и Лев тоже __.",тупица,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_173
+Правая рука сильнее левой __.,руки,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_174
+"Первую мировую войну он провел в окопах, во время второй __ был журналистом.",мировой войны,NP_ellipsis,"Dorofeeva, E. (2024). Restrictions on identity in NP-ellipsis with adjectival remnant in Russian. // Thesis paper.",ellipsis_175
+"В нашей новой спальне три окна, а в прошлой было лишь два __.",окна,NP_ellipsis,https://ru.ruwiki.ru/wiki/%D0%AD%D0%BB%D0%BB%D0%B8%D0%BF%D1%81%D0%B8%D1%81_%D0%B8%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B,ellipsis_176
+Из ваших статей я прочитала только твою __.,статью,NP_ellipsis,original,ellipsis_177
+"Я съел пять тарелок супа, а Иван лишь одну __.",тарелку супа,NP_ellipsis,original,ellipsis_178
+"Три коровы укрылись от дождя в сарае, но еще четыре __ гуляли в поле.",коровы,NP_ellipsis,original,ellipsis_179
+Ты написал эссе? Я свое __ дома забыл.,эссе,NP_ellipsis,original,ellipsis_180
+Мне нравится красный цвет. Оранжевый __ тоже ничего.,цвет,NP_ellipsis,original,ellipsis_181
+"В этом датасете десять параметров, а в том датасете двенадцать __.",параметров,NP_ellipsis,original,ellipsis_182
+"У меня две сестры, а у него три __.",сестры,NP_ellipsis,original,ellipsis_183
+"С одной стороны, здесь мы видим это. С другой __, это неправильные данные.",стороны,NP_ellipsis,original,ellipsis_184
+"Говорят, если в Яндексе пройти сто собеседований, то в конце позовут на сто первое __.",собеседование,NP_ellipsis,original,ellipsis_185
+"Твоя собака очень милая, но моя __ милее.",собака,NP_ellipsis,original,ellipsis_186
+"Я уже пятьдесят минут жду, пока скачается программа, и ещё десять __ придется ждать.",минут,NP_ellipsis,original,ellipsis_187
+"Этот файл весит пятьдесят мегабайтов, а этот файл весит двадцать __.",мегабайтов,NP_ellipsis,original,ellipsis_188
+"Петя сегодня отработал в офисе пять часов, а Витя восемь __.",часов,NP_ellipsis,original,ellipsis_189
+"-- Принеси мне два гвоздя!
+-- Да не эти __, а те __ принеси!","гвозди, гвозди",NP_ellipsis,original,ellipsis_190
+"-- Возьми со стола пять чашек!
+-- Ты взял четыре __, а нужно было пять __.","чашки, чашек",NP_ellipsis,original,ellipsis_191
+"Петя доктор, и Даша тоже __.",доктор,NP_ellipsis,original,ellipsis_192
+"Денис раньше работал в офисе на втором этаже, а сейчас работает в офисе на пятом __.",этаже,NP_ellipsis,original,ellipsis_193
+"Я закинул свою одежду в стиральную машину, а твою __ пока не трогал.",одежду,NP_ellipsis,original,ellipsis_194
+"Я не выучила стихотворение, а Петя выучил __.",стихотворение,NP_ellipsis,"Belova, D. (2024). Ellipsis in Tatyshly Udmurt. Expedition report. Ms.",ellipsis_195
+"Маша поймала __, а Петя погладил собаку.",собаку,NP_ellipsis,"Belova, D. (2024). Ellipsis in Tatyshly Udmurt. Expedition report. Ms.",ellipsis_196
+"Витя нарезал __, а Лиля пожарила овощи.",овощи,NP_ellipsis,original,ellipsis_197
+"Альберт написал __, а Кирилл проверил код.",код,NP_ellipsis,original,ellipsis_198
+"Лев разбил старую __, а Петя купил новую вазу.",вазу,NP_ellipsis,original,ellipsis_199
+"Они знали, что Еремин гений, а все равно не выбрали __ председателем.",Еремина,NP_ellipsis,original,ellipsis_200
+"Мише уже пришла посылка, а Костя еще ждет свою __.",посылку,NP_ellipsis,original,ellipsis_201
+"Антон решил уже 5 заданий, а Витя только два __.",задания,NP_ellipsis,original,ellipsis_202
+"Егор Карпов признался в списывании,а Маша Семёнова не призналась __.",в списывании,PP_ellipsis,original,ellipsis_203
+"Я не хотел __, но вчера мы ходили в кино.",ходить в кино,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_204
+"Вы не можете ответить, или просто не хотите __?",ответить,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_205
+"Я не готовлю так хорошо, как ты __.",готовишь,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_206
+"Я не умею готовить так хорошо, как ты __.",умеешь готовить,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_207
+"Она меня не любит, и я её __.",не люблю,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_208
+"Они могут бегать быстрее, чем я __.",могу бегать,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_209
+"Хотя мы хотели нарушить закон, мы не посмели __.",нарушить закон,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_210
+"Мы очень хотим путешествовать по Украине, но сейчас не можем __.",путешествовать по Украине,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_211
+"Они попросили меня пойти на озеро, но у меня нет времени __.",пойти на озеро,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_212
+"Я не ем столько, как он __.",ест,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_213
+"Она знает больше о своей стране, чем он __.",знает о своей стране,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_214
+"Моя девушка хочет в кино всегда, а я никогда __.",не хочу в кино,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_215
+"Мы пришли сюда, потому что мы хотели __.",прийти сюда,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_216
+"Хорошие студенты всегда делают домашки, а плохие студенты никогда __.",не делают домашки,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_217
+"Мне вчера что-нибудь снилось, но не помню, что __.",мне снилось,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_218
+"Мои родители живут в Новгороде, и сестра тоже __.",живет в Новгороде,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_219
+"Каждый год он разбивает стакан, и его мать тоже __.",каждый год разбивает стакан,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_220
+"Я не могу видеть без очков, а моя подруга может __.",видеть без очков,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_221
+"Я ненавижу Марка, и ты тоже __.",ненавидишь Марка,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_222
+"Я ненавижу Марка, и тебя тоже __.",ненавижу,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_223
+"Так ли, для этого ли __? Мы для чего здесь сошлись? Нет, не для этого __.","сошлись, сошлись",VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_224
+"Довольно, не хочу больше __! 
+A: Не будем больше играть.",играть,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_225
+"Ваня хотел поменять лампочку, но не успел __.",поменять лампочку,VP_ellipsis,original,ellipsis_226
+"Я задал ему три вопроса, и ты тоже __.",задал ему три вопроса.,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_227
+"Витя помогает ему мыть пол, и ты тоже __.",помоги,VP_ellipsis,original,ellipsis_228
+"Я в первый раз там попробовал сало, и ты тоже __.",в первый раз там попробовал сало,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_229
+"В зоопарке я люблю смотреть слонов, и мои сёстры тоже __.",любят смотреть слонов,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_230
+"Отец приказал мне убрать комнату, но я забыл __.",убрать комнату,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_231
+"При коммунизме было очень трудно достать машину в России, но сейчас не очень __.",очень трудно достать машину в России,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_232
+"У нас не только Иван хочет кофе, но и Юрий __.",хочет кофе,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis.txt,ellipsis_233
+"Он сказал, что Катя будет читать эту лекцию, а на самом дело Cережа будет __.",читать эту лекцию,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis_2.txt,ellipsis_234
+"Андрей считает, что никто не будет делать это домашнее задание, но я буду __.",делать это домашнее задание,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis_2.txt,ellipsis_235
+"Kто будет ехать в Москву?
+Только Петя будет __.",ехать в Москву,VP_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis_2.txt,ellipsis_236
+"Я всем буду помогать, даже Пете __ буду __.","я, помогать","NP_ellipsis, VP_ellipsis",https://github.com/dcavar/thec_rus/blob/main/data/VP_ellipsis_2.txt,ellipsis_237
+"Я умею плавать, а он не умеет __.",плавать,VP_ellipsis,original,ellipsis_238
+"Давайте посмотрим, что нам даст визуализация. Ну давайте __.",посмотрим,VP_ellipsis,original,ellipsis_239
+"Витя согласился наругать Машу, а Петя отказался __.",наругать Машу,VP_ellipsis,original,ellipsis_240
+"Миша согласился вести себя хорошо, а Антон отказался __.",вести себя хорошо,VP_ellipsis,original,ellipsis_241
+"После последней сессии студенты сильно расстроились, но попытались взять себя в руки. Петя особенно остро реагирует на неудачи, и ему нужна дополнительная поддержка. Петя вдохновил себя на новые свершения, и Ваня тоже __.",вдохновил себя на новые свершения,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_242
+"Петя и Ваня иногда согласны друг с другом, а иногда их мнения расходятся. Петя в этот раз сильно ленился. Их проект по программированию получил оценку ""удовлетворительно"". В этот раз Петя критикует себя, и Ваня тоже __.",критикует себя,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_243
+"Петя постоянно сравнивает себя с другими людьми, и Ваня тоже __.",постоянно сравнивает себя с другими людьми,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_244
+"Если Маша убеждает себя бросить курить, то Даша тоже __.",убеждает себя бросить курить,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_245
+"Если Маша уважает себя, то Даша тоже __.",уважает себя,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_246
+"Если Маша сразу заметила себя на фотографии, то Даша тоже __.",сразу заметила себя на фотографии,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_247
+"Маше стало скучно, и она решила поговорить с Дашей, которая тоже скучала. Маша развлекала себя вопросами, и Даша тоже __.",развлекала себя вопросами,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_248
+"Если Маша винит себя в произошедшем, то Даша тоже __.",винит себя в произошедшем,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_249
+"Маша разрешила себе поесть мороженого, поэтому Даша тоже __.",разрешила себе поесть мороженого,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_250
+"Петя и Ваня оба любят розыгрыши и соревнуются в том, кто умеет лучше разыгрывать людей. На 1 апреля Петя обманул свою сестру, и Ваня тоже __.",обманул свою сестру,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_251
+"Ваня сомневается в своей победе, и Петя тоже __.",сомневается в своей победе,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_252
+"Ваня учил свою сестру кататься на лыжах, и Петя тоже __.",учил свою сестру кататься на лыжах,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_253
+"В классе происходит выставка картин. Даша похвалит свою работу, и Маша тоже __.",похвалит свою работу,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_254
+"Петя и Ваня часто гуляют вместе с Ваниной сестрой, а сестра Пети все время им мешает.
+Петя в шутку ударил свою сестру, и Ваня тоже __.",в шутку ударил свою сестру,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_255
+"Маша гораздо более убедительно говорит, чем Даша. Если Даша успокоит своего брата, то Маша тоже __.",успокоит своего брата,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_256
+"Машины вкусы схожи с Дашиными. Если Маша ненавидит свой номер в отеле, то Даша тоже __.",ненавидит свой номер в отеле,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_257
+"Преподаватель забыл почту одного из студентов. Маша напомнила свою почту, и Даша тоже __.",напомнила свою почту,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_258
+"Петя гораздо более странно одевается, чем Ваня. Петя сегодня смутит свою жену, потому что Ваня тоже __.",сегодня смутит свою жену,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_259
+"Петя помогает своей пожилой соседке, и Ваня тоже __.",помогает своей пожилой соседке,VP_ellipsis,"Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_260
+"Петя и Ваня поехали в экспедицию. В экспедиции у каждого есть бытовые обязанности, которые ребята должны выполнять, даже если не хотят __. Петя помыл часть своей посуды, и Ваня тоже __.","выполнять, помыл часть своей посуды","VP_ellipsis, VP_ellipsis","Kuznetsova, S. (2024). Interpretation of Pronouns under Ellipsis in Russian. Thesis.",ellipsis_261
+"Мариам поступила в университет, как и Касим __.",поступил в университет,VP_ellipsis,original,ellipsis_262
+"Валера всю ночь играл в Вархаммер, это Герман его надоумил __.",играть в Вархаммер,VP_ellipsis,original,ellipsis_263
+"Я сижу на Терра Хоминис, как и Рина __.",сидит на Терра Хоминис,VP_ellipsis,original,ellipsis_264
+"Кажется, все когда-то хотели стать космонавтами, Валентин Анатольевич, вы разве не хотели __?",стать космонавтом,VP_ellipsis,original,ellipsis_265
+"Валентин давно собирался завести собаку (отчислиться), и наконец решил __.",завести собаку (отчислиться),VP_ellipsis,original,ellipsis_266
+"Как я и планировал __, я переехал в июне.",я переехал в июне,VP_ellipsis,original,ellipsis_267
+"Аккуратнее, а то, как дядя Паша __, уедешь на скорой.",уехал на скорой,VP_ellipsis,original,ellipsis_268
+"Серёжа начал курить тогда же, когда и все __",начали курить,VP_ellipsis,original,ellipsis_269
+"Возможно ли привлечь их авторитет для установления более добрососедских отношений? Ответ: Наверное, можно было бы __. Но заниматься этим должна, как я понимаю, латвийская сторона.",привлечь их авторитет для установления более добрососедских отношений,VP_ellipsis,"[И. И. Студенников. Интервью латвийской газете «Телеграф» // «Дипломатический вестник», 2004]",ellipsis_270
+"Я очень хочу всё высказать, но не стану __.",высказывать,VP_ellipsis,original,ellipsis_271
+"Петя силился вспомнить имя того человека, но не мог __.",вспомнить имя того человека,VP_ellipsis,original,ellipsis_272
+"Ивану следовало позвать на помощь, но он отказывался __.",позвать на помощь,VP_ellipsis,original,ellipsis_273
+"Хотя Кузьма собирался зайти в дом, он понял, что не должен __.",заходить в дом,VP_ellipsis,original,ellipsis_274
+"А ты ездишь в экспедицию и собираешь все это, или просто сама __?",собираешь все это,VP_ellipsis,original,ellipsis_275
+Петин отец служил в армии поэтому и он будет __.,служить в армии,VP_ellipsis,original,ellipsis_276
+"Ваня чихнул во время урока, и Вика тоже __.",чихнула во время урока,VP_ellipsis,original,ellipsis_277
+Все родственники Ани и Оли не едят рыбу и они тоже __.,не едят рыбу,VP_ellipsis,original,ellipsis_278
+"Этим везде занимаются власти, а российское правительство увлечено либералистскими экспериментами и помогать «рыночному саморегулированию» не хочет — и, честно говоря, вряд ли смогло бы __.",помогать «рыночному саморегулированию»,VP_ellipsis,"[Александр Дейкин. Своя игра // «Время МН», 2003.08.02]",ellipsis_279
+"В результате мы решили вовремя остановиться. Могу сказать, что мы потеряли не так много, как могли бы __.",потерять,VP_ellipsis,"[Василий Аузан. B2C: Вack to College // «Эксперт-Интернет», 2001.03.12]",ellipsis_280
+"Зося нарисовала и голубей, и гостей: зайца, волка, лисичку, медведя, колобка, бабку, дедку, внучку, Жучку и репку. Не забыла и мышку __, а вот кошку — не стала __.","нарисовать, рисовать",VP_ellipsis,[А. В. Лисаченко. Алфавитные сказки (2015)],ellipsis_281
+"Мы тут чертим, как в школе научили __.",чертить,VP_ellipsis,original,ellipsis_282
+"Как работали, так и будем __.",работать,VP_ellipsis,original,ellipsis_283
+"Нас научили так класть кирпичи, так и будем __.",класть кирпичи,VP_ellipsis,original,ellipsis_284
+"Развод Ильиных обсуждали, пока всем не надоело __.",обсуждать развод Ильиных,VP_ellipsis,original,ellipsis_285
+"Она читает быстрее, чем он __.",читает,VP_ellipsis,original,ellipsis_286
+"Мы бы взяли первое место, если бы хотели __.",взять первое место,VP_ellipsis,original,ellipsis_287
+"Вика будет готовить сырники, как считает нужным __.",готовить сырники,VP_ellipsis,original,ellipsis_288
+— Кто-нибудь видел этот фильм? — Я __.,видел этот фильм,VP_ellipsis,original,ellipsis_289
+"Он умеет петь, и она тоже __.",умеет петь,VP_ellipsis,original,ellipsis_290
+"Я не хочу уходить, но придётся __.",уйти,VP_ellipsis,original,ellipsis_291
+"Все делали хим завивку, в том году было модно __.",делать хим завивку,VP_ellipsis,original,ellipsis_292
+"Ира переживала по этому поводу, и я тоже __.",переживала по этому поводу,VP_ellipsis,original,ellipsis_293
+"Сломалась мышка, и ноутбук тоже __.",сломался,VP_ellipsis,original,ellipsis_294
+"Она любит читать, а он не любит __.",читать,VP_ellipsis,original,ellipsis_295
+"Она считает интегралы лучше, чем он __.",считает интегралы,VP_ellipsis,original,ellipsis_296
+"Я не успел сделать макет, а он даже не начинал.",делать макет,VP_ellipsis,original,ellipsis_297
+Раз двадцать уже смотрел. И еще буду __.,смотреть,VP_ellipsis,original,ellipsis_298
+"— Ты купил хлеб?
+— Нет, забыл __.",купить хлеб,VP_ellipsis,original,ellipsis_299
+"— Кто-нибудь помыл посуду?
+— Я __, а брат нет __.","помыл, не помыл","VP_ellipsis, polarity ellipsis",original,ellipsis_300
+"— Ты можешь сейчас мне помочь?
+— Сейчас не смогу __.",тебе помочь,VP_ellipsis,original,ellipsis_301
+"Он хотел уйти, но не решился __.",уйти,VP_ellipsis,original,ellipsis_302
+"Ты смог понять сегодняшнюю тему по математике? Мне кажется, никто не смог __.",понять сегодняшнюю тему по математике,VP_ellipsis,original,ellipsis_303
+Кто обещает быть хорошим студентом? Я обещаю __.,быть хорошим студентом,VP_ellipsis,original,ellipsis_304
+Кто будет прыгать первым? Я буду __.,прыгать первым,VP_ellipsis,original,ellipsis_305
+"Петя разморозил курицу? Нет, забыл __.",разморозить курицу,VP_ellipsis,original,ellipsis_306
+Кто был рождён для великих дел? Макбет был __.,рождён для великих дел,VP_ellipsis,original,ellipsis_307
+Я должен Мише позвонить или ты __?,должен Мише позвонить,stripping,https://github.com/dcavar/thec_rus/blob/main/data/stripping.txt,ellipsis_308
+"Она попросила Мишу остаться, и Вася тоже __.",попросил Мишу остаться,stripping,https://github.com/dcavar/thec_rus/blob/main/data/stripping.txt,ellipsis_309
+"Ваня сказал, что Вика поедет в Петербург, и я думаю, что Маша тоже __.",поедет в Санкт-Петербург.,stripping,https://github.com/dcavar/thec_rus/blob/main/data/stripping.txt,ellipsis_310
+"Ваня сказала, что Вика тебя позвала гулять, а я думал, что __ меня __.","Вика, позвала гулять",stripping,https://github.com/dcavar/thec_rus/blob/main/data/stripping.txt,ellipsis_311
+"Ольга хорошо говорит по-немецки, и Катя тоже __.",хорошо говорит по-немецки,stripping,https://github.com/dcavar/thec_rus/blob/main/data/stripping.txt,ellipsis_312
+"Ольга уехала из своей страны в молодом возрасте, и Катя тоже __.",уехала из своей страны в молодом возрасте,stripping,https://github.com/dcavar/thec_rus/blob/main/data/stripping.txt,ellipsis_313
+"И Ольгу встретили в магазине, и Kатю __.",встретили в магазине,stripping,https://github.com/dcavar/thec_rus/blob/main/data/stripping.txt,ellipsis_314
+"Kирилл не позвал Любу в кино, и Bася тоже __.",не позвал Любу в кино,stripping,https://github.com/dcavar/thec_rus/blob/main/data/stripping.txt,ellipsis_315
+"Дикие кошки бегают скорее, чем домашние __.",кошки бегают,stripping,https://github.com/dcavar/thec_rus/blob/main/data/stripping.txt,ellipsis_316
+"Я думал, что никто не знает эту песню, а на самом деле Маша спела __.",эту песню,verb-stranding,https://github.com/dcavar/thec_rus/blob/main/data/verb_stranding.txt,ellipsis_317
+"Я думал, что Саша будет петь эту песню, а на самом деле Маша будет __.",петь эту песню,verb-stranding,https://github.com/dcavar/thec_rus/blob/main/data/verb_stranding.txt,ellipsis_318
+"Кто-нибудь будет есть кашу?
+Петя точно будет __.",есть кашу,verb-stranding,original,ellipsis_319
+"Человек описыавет какой-то город, но нам не ясно, какой __.",город человек описывает,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_320
+"Мне нравится эта песня, но не знаю почему __.",мне нравится эта песня,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_321
+"Она убила его, но чем __, не знаем.",она убила его,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_322
+"Незнакомый вручил мне подарок, но не ясно почему __.",незнакомый вручил мне подарок,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_323
+"Она встала и ушла, а её парень не знал, почему __.",она встала и ушла,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_324
+"Что-то купили на рынке, но ещё не объяснили что __.",купили на рынке,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_325
+"Я хочу поехать за границу, но не знаю куда __.",хочу поехать,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_326
+"Его убили, но не знаю почему __.",его убили,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_327
+"Он говорит с иностранным акцентом, но мы не знаем почему __.",он говорит с иностранным акцентом,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_328
+"Лишь бы он вернул мою книгу сегодня, мне всё равно во сколько __.",он вернет мою книгу сегодня,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_329
+"Он починил мою машину, но я не понимаю как __.",он починил мою машину,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_330
+"Иван прыгнул в колодец!
+Почему __?",Иван прыгнул в колодец,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_331
+"Сегодня пойдём в бар, но мне ещё не сказали когда __.",сегодня пойдём в бар,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_332
+"Они купили надувной замок, но не ясно кому __.",они купили надувной замок,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_333
+"Они смеются, но непонятно над кем __.",они смеются,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_334
+"Иван улыбается, и Миша знает почему __.",Иван улыбается,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_335
+"Он вдруг бросился и больно укусил мне палец, не знаю за что __.",он вдруг бросился и больно укусил мне палец,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_336
+"Ну, для чего берут в таких случаях что-нибудь в руку? 
+Я не знаю, для чего __.",берут в таких случаях что-нибудь в руку,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_337
+"Из чего эта тряпка была: из холста, из полотна? 
+Черт ее знает из чего __.",тряпка была,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_338
+"Да зачем упразднять?
+А чтоб истина скорей воссияла, вот зачем __.",упразднять,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_339
+"Дмитрия же не застанет еще вернее, и ему предчувствовалось почему __.",Дмитрия же не застанет еще вернее,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_340
+"Теперь уж Алеша был почти уверен в этом, сам не зная еще почему __.",был почти уверен в этом,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_341
+"Преследовать и звать его он не захотел, он знал почему __.",преследовать и звать его он не захотел,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_342
+"Не будете больше играть. 
+Почему __?",не будете больше играть,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_343
+"Почему не будем больше играть? 
+Плюньте и уйдите, вот почему __.",не будем больше играть,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_344
+"А ведь я знал, что он повесился. 
+От кого же __?",я знал что он повесился,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_345
+"А ведь я знал, что он повесился. 
+Не знаю от кого __.",я знал что он повесился,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_346
+"Как он убит, чем __ и как __? ","убит, убит",sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_347
+"Убил Смердяков, но как __?",убил Смердяков,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_348
+"Они взяли да меня и высекли. 
+Да за что же __, за что __?","взяли меня и высекли, взяли меня и высекли",sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_349
+"Кити не только уверила его, что она его любит, но даже, отвечая на его вопрос, за что она любит его, объяснила ему, за что __.",она его любит,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_350
+"Ты в клубе пил, пил, играл и потом поехал… к кому __?",ты поехал,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_351
+"Да, я распоряжусь, — решила она и, возвращаясь к прежним мыслям, вспомнила, что что-то важное, душевное было не додумано еще, и она стала вспоминать что __.",было не додумано еще,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_352
+А они нападают на Анну. За что __?,они нападают на Анну,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_353
+"Я страдаю, ты страдаешь. За что __?",мы страдаем,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_354
+"Он видел, что в душе ее совершалось что-то прекрасное, но что __?",совершалось,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_355
+"Иван нашёл хорошее кафе, но __ нам не говорит, где __.","Иван, Иван нашёл хорошее кафе","NP_ellipsis, sluicing",https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_356
+"Мы бы хотели кому-нибудь помогать, но не знаем кому __.",мы бы хотели помогать,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_357
+"Наш брат поймал какую-то рыбу из речки, но мы не можем видеть какую __.",рыбу наш брат поймал из речки,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_358
+"Если мы не можем здесь платить карточкой, то чем __?",мы можем здесь платить,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_359
+"Им надо ждать дольше, но мы не знаем сколько __.",им надо ждать,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_360
+"Кто-то съел все печенья, но я не знаю, кто __.",съел все печенья,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_361
+"Марина увидела что-то странное, но я не знаю что __.",Марина увидела,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_362
+"Митя где-то будет праздновать день рождения, но не знаю где __.",Митя будет праздновать день рождения,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_363
+"Вова когда-то придет. 
+Когда __?",придет Вова,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_364
+"Я не знаю что __, но что-то Марина увидела.",видела Марина,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_365
+"Маша кому-то что-то подарила, но я не помню кому что __.",Маша подарила,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_366
+"Кто-то что-то пел, но я не понимал, кто что __.",пел,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_367
+"Иван что-то купил, но я не помню, чтo __.",Иван купил,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_368
+"Дети с кем-то дрались, но мне не важно с кем __.",дрались дети,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_369
+"Каждый пригласил кого-то танцевать, но я не помню, кто кого __.",пригласил танцевать,sluicing,https://github.com/dcavar/thec_rus/blob/main/data/sluicing.txt,ellipsis_370
+"Я ушел из дому, на долгие годы порвал с друзьями, жил бог знает где и бог знает с кем __.",жил,sluicing,[ast. Запись LiveJournal (2004)],ellipsis_371
+"Каждый день, сидя в классе, мы записывали практически весь ход урока: что спрашивали учителя, что и как отвечал ученик, как общался с другими ребятами или учителем, какие задавал вопросы и кому __.",задавал вопросы,sluicing,"[М. Э. Боцманова, Р. Д. Триггер. Изучение психологии подростка в лаборатории Д.Б. Эльконина // «Вопросы психологии», 2004]",ellipsis_372
+"Эффектно сумели бы многие, но глубоко — мало кто __.",сумел бы,sluicing,[Анатолий Эфрос. Профессия: режиссер (1975-1987)],ellipsis_373
+"Петя знает, кто будет писать ему предложение для сочинения, но не знает какие __.",будет писать ему предложение для сочинения,sluicing,original,ellipsis_374
+"Витя что-то купил, но я не знаю, что __.",купил Витя,sluicing,original,ellipsis_375
+"Петя знает кто будет организовывать банкет, но не знает где __.",будет организовыван банкет,sluicing,original,ellipsis_376
+"Миша будет выступать на собрании, но пока не знает зачем __.",будет выступать на собрании,sluicing,original,ellipsis_377
+К кому ж мы пойдем?  Как к кому __?.. Там у меня тетка…,мы пойдем,sluicing,[С. А. Есенин. Яр (1915)],ellipsis_378
+"А кому и штрафовать-то?  Как кому __?.. Да ведь у вас старшина есть, а дальше волость, наконец, исправник, мировой судья!..",штрафовать,sluicing,"[А. А. Черкасов. На Алтае (1884) // На Алтае: Записки городского головы, 2004]",ellipsis_379
+"Кто ж обижает-то?  Как кто __!.. Известно, начальство, власти…",обижает,sluicing,[В. В. Крестовский. Панургово стадо (Ч. 1-2) (1869)],ellipsis_380
+"Разумеется, у них напрочь пропадает желание учиться и посещать школу, и вполне понятно, почему __.",у них напрочь пропадает желание учиться и посещать школу,sluicing,[Алевтина Луговская. Если ребенок боится ходить в школу (2002)],ellipsis_381
+"Потом в финале Бернстайн попросил солиста сыграть какие-то безумные штрихи — все наоборот. В перерыве Володя спросил маэстро, почему __. Тот ответил: «Because I am old and my name is Leonard Bernstein» *.",Бернстайн попросил солиста сыграть какие-то безумные штрихи,sluicing,[Сати Спивакова. Не всё (2002)],ellipsis_382
+"Рафик потерял ко мне интерес, не знаю уж почему __.",Рафик потерял ко мне интерес,sluicing,[Юрий Трифонов. Предварительные итоги (1970)],ellipsis_383
+"Насколько я могу разглядеть, она мрачнее тучи.  И я знаю, почему __.  Позавчера её оштрафовали на десять рублей — и она из-за этих десяти рублей мучается, ей жалко.",она мрачнее тучи,sluicing,"[Александр Солженицын. В круге первом, т.1, гл. 26-51 (1968) // «Новый Мир», 1990]",ellipsis_384
+"Вы несколько торопитесь, — сказал он недовольно, — и я не понимаю, почему __.",вы несколько торопитесь,sluicing,"[Ю. О. Домбровский. Обезьяна приходит за своим черепом, часть 1 (1943-1958)]",ellipsis_385
+"Видимо, все то, что произошло, действительно задевало его за живое, и я понимал почему __.
+","то, что произошло, действительно задевало его за живое",sluicing,"[Ю. О. Домбровский. Обезьяна приходит за своим черепом, часть 3 (1943-1958)]",ellipsis_386
+Мне и самому тоже почему-то захотелось увидеться с ребятами из нашего класса. Даже не знаю почему __.,мне захотелось увидеться с ребятами из нашего класса,sluicing,"[Валерий Медведев. Баранкин, будь человеком! (1957)]",ellipsis_387
+"И длинноногий регент с камертоном, который и сам пел и прислушивался к пению других, отчего его лицо выражало невероятное напряжение; мне все это казалось нелепым и ненужным, хотя я не всегда понимал почему __.",мне все это казалось нелепым и ненужным,sluicing,[Гайто Газданов. Вечер у Клэр [начало романа] (1930)],ellipsis_388
+"А почему я это узнал?  А вот почему __.
+ ",я это узнал,sluicing,[А. И. Куприн. Гранатовый браслет (1911)],ellipsis_389
+"Но это не совсем так, сейчас разберемся почему __.",это не совсем так,sluicing,[Никита Непряхин. Анатомия заблуждений (2017-2020)],ellipsis_390
+"Потому что мне кажется, он меня недолюбливает. Не знаю, почему __. Я бы хотел познакомиться.",он меня недолюбливает,sluicing,"[Андрей Никитин, Федук. «Я чувачок, у которого получается»: Федук — о себе, Урганте, «Версусе» и околофутболе (2018.04) // Афиша Daily, 2018]",ellipsis_391
+"Судя по тому, что Читатель этой книги явно не потомок австралопитеков гари, победили Homo, хотя мы и не знаем почему __.",победили Homo,sluicing,[Станислав Дробышевский. Достающее звено. Книга 2. Люди (2017)],ellipsis_392
+"Другой вопрос, что и художественной литературы читали намного больше, чем сейчас; но нужно разбираться — кто __, где __, какую __ и почему __.","художественной литературы читал намного больше чем сейчас, художественной литературы читали намного больше чем сейчас, художественную литературу читали намного больше чем сейчас, художественной литературы читали намного больше чем сейчас",sluicing,"[А. А. Архангельский, А. А. Данилова. В чем проблемы преподавания литературы в школе?-Александр Архангельский (2016.04) // «Правмир», 2016]",ellipsis_393
+"Любопытно было бы узнать, выводил ли Ходорковский деньги за границу на протяжении 90-х — и если да, то в каких количествах __, и если нет, то почему __.",выводил Ходорковский деньги за границу на протяжении 90-х,sluicing,[Л. А. Данилкин. Круговые объезды по кишкам нищего (2016)],ellipsis_394
+"Через месяц как-то забылось это всё, и в очередной раз, чтобы прервать его лихорадочные речи и раскатывания по комнате, она сама спросила, как давно он занимается фотографией и почему __.",он занимается фотографией,sluicing,"[В. М. Шапко. Синдром веселья Плуготаренко // «Волга», 2016]",ellipsis_395
+В целом по году розница может свалиться на 8.5-9 процентов. И понятно почему __.,в целом по году розница может свалиться на 8.5-9 процентов,sluicing,"[Александр Ивантер, Андрей Клепач. Длинные, эмиссионные, меченые // «Эксперт», 2015]",ellipsis_396
+"Я думаю, он даже не соображал, куда идет и зачем __.",идет,sluicing,[Фазиль Искандер. Тринадцатый подвиг Геракла (1966)],ellipsis_397
+"Экой ты, Моргач, чудной, братец: тебя зовут в кабак, а ты еще спрашиваешь, зачем __.",тебя зовут в кабак,sluicing,[И. С. Тургенев. Певцы (1850)],ellipsis_398
+"Конечно, он был воткнут преднамеренно, только зачем __?..",он был воткнут,sluicing,"[Елена Акимова. Тайна девятнадцатого слоя стоянки Лиственка // «Наука в России», 2014]",ellipsis_399
+"Спасибо, что вообще пришел. Хотя не совсем понятно зачем __.",пришел,sluicing,[Алексей Моторов. Преступление доктора Паровозова (2013)],ellipsis_400
+"Я хочу знать, кто взломал мой пароль, когда __ и зачем __.","взломал мой пароль, взломал мой пароль",sluicing,[Алексей Иванов. Комьюнити (2012)],ellipsis_401
+"Ирина металась по квартире, хотела бежать, но не знала куда __.",бежать,sluicing,"[Токарева Виктория. Своя правда // «Новый Мир», 2002]",ellipsis_402
+"— Вот уж где административный ресурс будет использован на всю катушку! И легко догадаться, за кого __.. ",административный ресурс будет использован на всю катушку,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_403
+"Как ему деньги зарабатывать? Опыт подсказывает, как __...",ему зарабатывать деньги,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_404
+"Считается, что в правительстве обязательно должна быть женщина. Но никто не скажет, зачем.",в правительстве обязательно должна быть женщина,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_405
+"Пэт с мужем собирается в Россию за ребенком из детского дома. Пока еще не знает, каким __. Мы обязательно с ней съездим в Брянск и все вам расскажем.",ребенком из детского дома она собирается в Россию,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov // [Игорь Свинаренко. Дети людям не игрушка (1997) // «Столица», 29.09.1997]",ellipsis_406
+"Крупные наши фирмы надо страховать. И пример с «Росно» нас научил, как __.",надо страховать крупные наши фирмы,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_407
+"А юбилеев в этом году у меня сразу четыре. Объясняю, почему __.",у меня сразу четыре юбилея в этом году,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_408
+"Да ты здесь когда-нибудь хоть один дорожный указатель видел? — Видел. Один раз. Но не помню, где __.",видел,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_409
+— Зачем тебе золото? Костя тоскливо смотрел в речную даль. — Сам не знаю зачем __…,мне золото,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_410
+"Хотя, как оказалось, многое в жизни кем-то рифмуется. Узнать бы — кем __?! ",рифмуется многое в жизни,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_411
+"Всякий раз, уходя на работу — в тоннель, Костя брал с собой парабеллум. Не знал, зачем __? ",Костя брал с собой парабеллум всякий раз уходя на работу в тоннель,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_412
+"В выходах на улицу я нахожу тот самый кайф, который для меня сейчас, как наркотик. Даже сейчас говорю об этом и чувствую [эмоциональный подъем]. Не знаю, почему __.",чувствую эмоциональный подъем,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_413
+"— К Басте я бы пошел на студию — просто пообщаться. Потому что мне кажется, он меня недолюбливает. Не знаю, почему __.",он меня недолюбливает,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_414
+"А знаешь, кого я неделю назад видел в городе? — спросил Иван, принимая от Тягина небольшое вознаграждение. Нашего хлопчика в красном платье. И знаешь, с кем __?",я видел неделю назад нашего хлопчика в красном платье,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_415
+"Здоров, куда пропал? Приходи играть, у нас теперь тренер есть, угадай, кто __!.",у нас тренер,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_416
+"Кто-то ещё курирует Михаила Афанасьевича? [...] А нельзя ли узнать, кто __?",курирует Михаила Афанасьевича,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_417
+"Мы с тобой едем, а не знаем, с кем __. ",мы с тобой едем,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_418
+"Ринат Иосифович предупреждал, что могут быть какие-то последствия, но не сказал, какие __.",могут быть последствия,sluicing,"P. Rudnev, D. Kasenov, V. Zhukova, I. Tarasov",ellipsis_419
+"Петя в Москву приехал, а Вася в Петербург нет __.",не приехал,polarity_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/polarity_ellipsis.txt,ellipsis_420
+"Ты поговорил и с Васей, и с Петей?
+C Васей да __, а с Петей __ нет __.","поговорил, я не поговорил",polarity_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/polarity_ellipsis.txt,ellipsis_421
+"В Москву я хочу поехать, а в Петербург __ нет __.","я, не хочу",polarity_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/polarity_ellipsis.txt,ellipsis_422
+"Когда Петя пришел, я обрадовался, а Вася нет __.",не обрадовался,polarity_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/polarity_ellipsis.txt,ellipsis_423
+"Я видел машину, которую купил Петя, а Вася нет __.",не видел,polarity_ellipsis,https://github.com/dcavar/thec_rus/blob/main/data/polarity_ellipsis.txt,ellipsis_424
+"Почему же она расценивается как возможность, а те примеры нет __?",не расцениваются как возможность,polarity_ellipsis,[Форум: комментарии к фильму «Все будет хорошо» (2008-2011)],ellipsis_425
+"Колючий друг: Может она и милая, но вот предмет — нет __.",не милый,polarity_ellipsis,"[agd-ardin, Колючий друг. Переписка в ICQ (17.12.2007)]",ellipsis_426
+"А потом уже подумать, включать его или нет.",не включать,polarity_ellipsis,[ast. Запись LiveJournal (2004)],ellipsis_427
+"Что, вы совсем не говорите между собой по-французски? Если мы вдвоем, то нет __. Ну надо же!",не говорим между собой по-французски,polarity_ellipsis,[benedicte. Запись LiveJournal (2004)],ellipsis_428
+Хочу — отвечаю на телефонные звонки — хочу — нет __.,не отвечаю на телефонные звонки,polarity_ellipsis,[vmalcolm. Запись LiveJournal (2004)],ellipsis_429
+"И тут мы не знаем, в какой момент мы почувствуем, а в какой нет __.",не почувствуем,polarity_ellipsis,[Евгений Гришковец. ОдноврЕмЕнно (2004)],ellipsis_430
+"Марина любит есть суши, а Витя -- нет.",не любит есть суши,polarity_ellipsis,original,ellipsis_431
+"17. 1. На тонких шелковых нитях подвешены две одинаковые легкие бумажные гильзы, одна из них заряжена, другая нет __.",не заряжена,polarity_ellipsis,"[Владимир Лукашик, Елена Иванова. Сборник задач по физике. 7-9 кл. (2003)]",ellipsis_432
+"Ведь только медик может авторитетно и непредвзято заявить, при какой температуре на какой дистанции можно проводить гонки, а при какой на какой — нет __.",нельзя проводить гонки,polarity_ellipsis,"[Андрей Митьков. Мороз по коже. Этап Кубка мира по лыжам в Токсове провели в экстремальных погодных условиях // «Известия», 2003.01.08]",ellipsis_433
+"Способности человека выносятся за пределы человека, приобретают собственную (далекую от человеческой) логику и навязывают эту логику человеку, хочет он того или нет.",не хочет,polarity_ellipsis,"[Владимир Николаев. Герберт Маршалл Маклюэн и его книга «Понимание средств коммуникации» // «Отечественные записки», 2003]",ellipsis_434
+"А проект призван помочь властям определиться, кто традиционно связан с культурным и духовным наследием страны, а кто нет __.",не связан с культурным и духовным наследием страны,polarity_ellipsis,"[Игорь Пылаев. Число избранных // «Еженедельный журнал», 2003.04.08]",ellipsis_435
+"И пускай люди сами лечатся или выясняют, в группе риска они или нет __.",не в группе риска,polarity_ellipsis,"[Евгений Толстых. Пивка для рывка // «Совершенно секретно», 2003.09.01]",ellipsis_436
+"То, что ты не вешаешься мне на шею с требованием жениться, не пытаешь — люблю я тебя или нет __.",не люблю,polarity_ellipsis,"[Ольга Зуева. Скажи, что я тебе нужна... // «Даша», 2004]",ellipsis_437
+"В соответствии с этой статьей вред, причиненный гражданину либо юридическому лицу вследствие недостатков услуги, а также вследствие недостоверной или недостаточной информации об услуге, подлежит возмещению лицом, оказавшим услугу (исполнителем), независимо от его вины и от того, состоял потерпевший с ним в договорных отношениях или нет __.",не состоял с ним в договорных отношениях,polarity_ellipsis,"[Г. Шаров. Федеральный закон «Об адвокатской деятельности и адвокатуре в Российской Федерации» о страховании риска ответственности адвоката (1 часть) // «Адвокат», 2004.12.01]",ellipsis_438
+"Чтобы получить грубую оценку, нужно задуматься, зачем лично мне она нужна, устроит меня такая степень приближения или нет.",не устроит меня такая степень приближения,polarity_ellipsis,"[Михаил Арапов. Когда текст обретает смысл // «Знание -- сила», 2003]",ellipsis_439
+"Сделаем, уж извините, дорогие билеты и малую рекламу и посмотрим на этом примере, стоит ли самим заниматься такими ангажементами или нет __.",не стоит,polarity_ellipsis,"[Вячеслав Борисов. Это мама. Нина Хаген взорвет бункер // «Известия», 2002.10.13]",ellipsis_440
+"Пусть только США определятся, дадут они денег или нет __.",не дадут,polarity_ellipsis,"[Дмитрий Литовкин. Сроки подвига переносятся. Отечественное химоружие трудно уничтожить вовремя // «Известия», 2002.10.06]",ellipsis_441
+Президент просит принять нас окончательное разумное решение: будем мы заниматься этим вопросом — или нет __?,не будем мы заниматься этим вопросом,polarity_ellipsis,"[Андрей Митьков. «Принципиально вы должны занять позицию: Да или Нет...». Олимпийский комитет России отказывает Лазутиной и Даниловой в поддержке // «Известия», 2002.06.25]",ellipsis_442
+Володя никак не мог понять — надо делать этот шаг или нет __.,не надо делать этот шаг,polarity_ellipsis,[Сати Спивакова. Не всё (2002)],ellipsis_443
+Что сказал профессор? Он берется делать операцию или нет __? Кямал навел на Ирину свои голубые глаза и смотрел незамутненным взором.,не берется делать операцию,polarity_ellipsis,"[Токарева Виктория. Своя правда // «Новый Мир», 2002]",ellipsis_444
+"И непонятно, встретит ее Саша или нет __.",не встретит ее Саша,polarity_ellipsis,"[Токарева Виктория. Своя правда // «Новый Мир», 2002]",ellipsis_445
+"АВТОПИЛОТ»: Вы видите в венерических болезнях какой-то моральный смысл?  ВАСИЛЬЕВ: Наверное, нет __. Дело врача — лечить, а сначала правильно поставить диагноз.",не вижу в венерических болезнях какой-то моральный смысл,polarity_ellipsis,"[Сергей Шерстенников. Доктор твоего // «Автопилот», 2002.01.15]",ellipsis_446
+"Готовы ли мы раскрыть структуры собственности нашего предприятия? Конечно, нет __.",мы не готовы раскрыть структуры собственности нашего предприятия,polarity_ellipsis,"[Вами кто владеет? // «Дело» (Самара), 2002.07.17]",ellipsis_447
+"К сожалению, эти чувства врожденные.  Тут уж либо дано, либо нет __.  Да это даже полезно.",не дано,polarity_ellipsis,"[Вы над собой смеяться не боитесь? // «Дело» (Самара), 2002.05.03]",ellipsis_448
+"Любите ли вы оперы в концертном исполнении?  Подозреваю, что нет __. Меж тем именно так можно оценить красоту звука и голоса.",вы не любите оперы в концертном исполнении,polarity_ellipsis,"[Как весна, так все коты // «Домовой», 2002.03.04]",ellipsis_449
+Как только окончательно решился вопрос: стартовать в Москве или нет __.,не стартовать в Москве,polarity_ellipsis,"[Олег Лисогор: «Что толку мечтать? Работать надо!» // «Известия», 2002.04.02]",ellipsis_450
+"Он все знал про… про нас с… ну, ты понимаешь… Как ты думаешь, откуда он знал? — она впилась в меня напряженным взглядом. Ты ведь им не говорил?  Нет __, — я покачал головой. Конечно, нет __.",не говорил,polarity_ellipsis,[Вера Белоусова. Второй выстрел (2000)],ellipsis_451
+Петя умеет играть на гитаре. А Маша нет __.,не умеет играть на гитаре,polarity_ellipsis,original,ellipsis_452
+Иван любит мороженое. А Катя нет __.,не любит мороженое,polarity_ellipsis,original,ellipsis_453
+"Вчера было солнечно. А сегодня нет __. Может, завтра будет солнечно?",не было солнечно,polarity_ellipsis,original,ellipsis_454
+— Ты пойдешь на концерт? — Нет __.,не пойду на концерт,polarity_ellipsis,original,ellipsis_455
+"— Миша не хочет идти в кино. А Вика хочет?
+— Вика — да __.",хочет идти в кино,polarity_ellipsis,original,ellipsis_456
+"Это что, бунт? Будешь ты отвечать по-человечески или нет __?",не будешь ты отвечать по-человечески,polarity_ellipsis,[Вера Белоусова. Второй выстрел (2000)],ellipsis_457
+"Так я и не понял, поверил я ей или нет __.",не поверил,polarity_ellipsis,[Вера Белоусова. Второй выстрел (2000)],ellipsis_458
+"У тебя либо есть данные, либо нет __.",данных,polarity_ellipsis,original,ellipsis_459
+Ты пойдешь в кино? Да __.,я пойду в кино,polarity_ellipsis,original,ellipsis_460
+Он уже пришел? Еще нет __.,он еще не пришел,polarity_ellipsis,original,ellipsis_461
+"— Ты видел этот фильм?
+— Конечно __!",я видел этот фильм,polarity_ellipsis,original,ellipsis_462
+"— Ты сделал домашку?
+— Да __.",я сделал домашку,polarity_ellipsis,original,ellipsis_463
+"— Ты хочешь чай?
+— Нет __.",я не хочу чай,polarity_ellipsis,original,ellipsis_464
+"— Они придут завтра?
+— Наверное, да __.",они придут завтра,polarity_ellipsis,original,ellipsis_465
+"— Ты не забыл ключи?
+— Конечно нет __!",я не забыл ключи,polarity_ellipsis,original,ellipsis_466
+"— Тебе понравился фильм?
+— Да __.",мне понравился фильм,polarity_ellipsis,original,ellipsis_467
+"— Ты не против, если я возьму твою ручку?
+— Нет __.",я не против если ты возьмешь мою ручку,polarity_ellipsis,original,ellipsis_468
+"— Петя уже уезжает?
+— Пока нет __.",Петя не уезжает,polarity_ellipsis,original,ellipsis_469
+"— Ты уверен, что это правильно?
+— Да __.",уверен что правильно,polarity_ellipsis,original,ellipsis_470
+"— Никто не звонил?
+— Нет __.",никто не звонил,polarity_ellipsis,original,ellipsis_471
+"— Ты уже посоветовался с Ваней и Леной?
+— С Ваней да __, а с Леной еще нет __.","посоветовался, не посоветовался",polarity_ellipsis,original,ellipsis_472
+"— Вы гуляли?
+— Я гулял, а Петя нет __.",не гулял,polarity_ellipsis,original,ellipsis_473
+"Витя снимал Сидорова часто, а Игорь нет __.",не снимал Сидорова часто,polarity_ellipsis,original,ellipsis_474
+"Испекли ли дети кексы по рецепту? Маша нет __, а остальные да __.","не испекла кексы по рецепту, испекли кексы по рецепту",polarity_ellipsis,"Kasenov, D., & Rudnev, P. (2024). Experimental evidence against verb-stranding VP ellipsis in Russian.",ellipsis_475
+"Проверяют ли преподы вашу домашку? Петр Степанович не проверяет __, а остальные да __. ","нашу домашку, проверяют нашу домашку","NP-ellipsis, polarity_ellipsis","Kasenov, D., & Rudnev, P. (2024). Experimental evidence against verb-stranding VP ellipsis in Russian.",ellipsis_476
+"А: Шутят ли ваши преподы на занятиях несмешно?
+В: Максим Юрьевич не шутит, а остальные да __.",шутят на занятиях несмешно,polarity_ellipsis,"Kasenov, D., & Rudnev, P. (2024). Experimental evidence against verb-stranding VP ellipsis in Russian.",ellipsis_477
+"Может ли так быть, что Максим Юрьевич любит травить анекдоты во время занятий?
+Нет __.",не может так быть что Максим Юрьевич любит травить анекдоты во время занятий,polarity_ellipsis,"Kasenov, D., & Rudnev, P. (2024). Experimental evidence against verb-stranding VP ellipsis in Russian.",ellipsis_478
+"A: Дети ведут себя плохо?
+B: Маша нет __, а Петя да __.","не ведет себя плохо, ведет себя плохо",polarity_ellipsis,"Kasenov, D., & Rudnev, P. (2024). Experimental evidence against verb-stranding VP ellipsis in Russian.",ellipsis_479
+"A: Вы считаете меня дураком?
+B: Я нет __, а Петя да __.","не считаю вас дураком, считает вас дураком",polarity_ellipsis,"Kasenov, D., & Rudnev, P. (2024). Experimental evidence against verb-stranding VP ellipsis in Russian.",ellipsis_480
+— Ты пойдёшь в кино? — Да __.,пойду в кино,polarity_ellipsis,original,ellipsis_481
+Ты уже сдал экзамен? Еще нет __.,не сдал экзамен,polarity_ellipsis,original,ellipsis_482
+"— Ты сделал домашку? — Нет, ещё нет __.",не сделал домашку,polarity_ellipsis,original,ellipsis_483
+— Ты будешь на вечеринке? — Конечно __!,буду на вечеринке,polarity_ellipsis,original,ellipsis_484
+"Петя пришел, а Вася нет __.",не пришел,polarity_ellipsis,"Kazenin, I. (?). Polarity in Russian and Typology of Predicate Ellipsis",ellipsis_485
+"Вы считаете, что мне подходит это платье? Если честно, нет __.",не считаю что вам подходит это платье,polarity_ellipsis,original,ellipsis_486
+Уже нашли вора? Или еще нет __?,не нашли вора,polarity_ellipsis,original,ellipsis_487
+"До Пети мое письмо дошло, поэтому странно, что до Коли еще нет __.",письмо не дошло,polarity_ellipsis,"Kazenin, I. (?). Polarity in Russian and Typology of Predicate Ellipsis",ellipsis_488
+"Они могут позвать Колю, а Петю нет __.",не могут позвать,polarity_ellipsis,"Kazenin, I. (?). Polarity in Russian and Typology of Predicate Ellipsis",ellipsis_489
+"Коля придет? Я думаю, что нет __.",не придет,polarity_ellipsis,"Kazenin, I. (?). Polarity in Russian and Typology of Predicate Ellipsis",ellipsis_490
+Ты любишь музыку? Нет __.,не люблю музыку,polarity_ellipsis,"Kazenin, I. (?). Polarity in Russian and Typology of Predicate Ellipsis",ellipsis_491
+Пойдет ли Маша в кино? Она да __.,пойдет в кино,polarity_ellipsis,"Kazenin, I. (?). Polarity in Russian and Typology of Predicate Ellipsis",ellipsis_492
+— Ты уже поужинал? — Ещё нет __.,не поужинал,polarity_ellipsis,original,ellipsis_493
+"Ты будешь есть обед? Спасибо, но нет __.",не буду есть обед,polarity_ellipsis,original,ellipsis_494
+"Ты хочешь чаю? Спасибо, но нет __.",не хочу чаю,polarity_ellipsis,original,ellipsis_495
+Вы используете эмодзи при общении с начальством? Конечно нет __.,не использую эмодзи при общении с начальством,polarity_ellipsis,original,ellipsis_496
+Ты уже успел устать? Конечно нет __.,я не успел устать,polarity_ellipsis,original,ellipsis_497
+— Ты поддерживаешь их? — Ни в коем случае нет __!,я их не поддерживаю,polarity_ellipsis,original,ellipsis_498
+"— Ты был в Париже? — К сожалению, нет __.",я не был в Париже,polarity_ellipsis,original,ellipsis_499
+"— Ты веришь ему? — Конечно, нет __.",я ему не верю,polarity_ellipsis,original,ellipsis_500
+— Ты закончил? — Ещё нет __.,не закончил,polarity_ellipsis,original,ellipsis_501
+"Мы их проверяем и в случае необходимости вносим свои предложения о выявленных противоречиях. С нами либо соглашаются, либо нет __. В зависимости от этого мы вносим либо представление, либо протест.",не соглашаются,polarity_ellipsis,"[Людмила Пирогова. «Смысл добиваться правды есть всегда…» (2003) // «Встреча» (Дубна), 23.04.2003]",ellipsis_502
+"Вспомните хотя бы известную шутку: Какова вероятность того, что я встречу на улице динозавра?» — «50 на 50!» — «Это почему?» — «Ну как почему?  Либо встретишь, либо нет __!»  На самом деле мы понимаем, что вероятность встретить свободно разгуливающего по улице динозавра равна нулю, ибо их нет в живых, к сожалению.",не встретишь,polarity_ellipsis,[Никита Непряхин. Анатомия заблуждений (2017-2020)],ellipsis_503
+"Здесь расчеты простые — либо это удовлетворяет твоим финансовым параметрам, либо нет __.",не удовлетворяет твоим финансовым параметрам,polarity_ellipsis,"[Отклоненные запросы (2003) // «Рекламный мир», 28.04.2003]",ellipsis_504
+"Я не пугаюсь, когда наблюдаю себя на экране, — говорит Моника. Роли мне либо нравятся, либо нет __. Но это своеобразные уроки жизни, которые надо спокойно воспринимать и, если в них есть ошибки, исправлять.",не нравятся,polarity_ellipsis,"[Елена Жарова. Четыре стихии Моники Беллуччи (2002) // «Домовой», 04.08.2002]",ellipsis_505
+"Одно из двух: либо я сотрудничаю с вами, либо нет __.",не сотрудничаю с вами,polarity_ellipsis,"[Владимир Маккавеев. «Большой приз» Джона Франкенхаймера (2002) // «Формула», 15.02.2002]",ellipsis_506
+"На следующий год будут другие обязательства, и мы либо подписываем их, либо нет __.",не подписываем,polarity_ellipsis,"[Юлия Торгашева. «Ваше место займет другой» (2002) // «Дело» (Самара), 26.05.2002]",ellipsis_507
+"Ты пытаешься спасти «потом». Которое еще либо случится, либо нет __. У нас может испортиться машина.",не случится,polarity_ellipsis,"[Игорь Ефимов. Суд да дело // «Звезда», 2001]",ellipsis_508
+Первая встреча была разведочная — Юрий Иванович выяснял мое политическое кредо: пускать меня в Хельсинки и в Стокгольм либо нет __?,не пускать,polarity_ellipsis,"[Владимир Соловьев. Три еврея, или Утешение в слезах. Роман с эпиграфами (1975-1998)]",ellipsis_509
+"После прохождения такой процедуры собственники либо перерегистрируются, либо нет __.",не перерегистрируются,polarity_ellipsis,"[И. Савватеева. Пока не приватизирован Кремль // «Комсомольская правда», 1991]",ellipsis_510
+"Но говорить о Цветаевой, об отмене пережиточных форм “наблюдения” — это значит говорить обо всем главном, ведь речь идет о гласности или безгласности, о литературе и журналистике, которые либо будут нести огромную благотворную службу, либо нет __.",не будут нести огромную благотворную службу,polarity_ellipsis,"[А. Т. Твардовский. Рабочие тетради (1962) // «Знамя», 2000]",ellipsis_511
+"Я играю в футбол, а ты нет __.",не играешь в футбол,polarity_ellipsis,original,ellipsis_512
+"Петя любит Нину, а Ваня нет __.",не любит Нину,polarity_ellipsis,original,ellipsis_513
+"Ты думал, что всё будет просто? А вот и нет __.",не будет,polarity_ellipsis,original,ellipsis_514
+Всё закончилось на этом? А вот и нет __.,не закончилось,polarity_ellipsis,original,ellipsis_515
+"- Волга впадает в Каспийское море.
+- Да не __.
+- А вот и да __.","не впадает в Каспийское море, впадает в Каспийское море",polarity_ellipsis,original,ellipsis_516
+"Виктор, вы вообще собираетесь доделывать проект? Если честно, то нет __.",не собираюсь доделывать проект,polarity_ellipsis,original,ellipsis_517
+"Ваня успеет на поезд? Мы все надеемся, что да __.",Ваня успеет на поезд,polarity_ellipsis,original,ellipsis_518
+У тебя получилось включить программу? Все еще нет __.,не получается включить программу,polarity_ellipsis,original,ellipsis_519
+Ты знаешь пароль от вайфая? Нет __.,не знаю пароль от вайфая,polarity_ellipsis,original,ellipsis_520
+Андрей заходил в HR-отдел или Виктор __?,заходил в HR-отдел,stripping,original,ellipsis_521
+Оля прочитала книгу или Таня __?,прочитала книгу,stripping,original,ellipsis_522
+Женя нарисовал картину или Миша __?,нарисовал картину,stripping,original,ellipsis_523
+Юра забил гол или Слава __?,забил гол,stripping,original,ellipsis_524
+"Он прочитал «Войну и мир», а она – __ «Мастера и Маргариту».",прочитала,stripping,original,ellipsis_525
+Что делают Ира и Настя? __ Читают книги.,Ира и Настя,answer ellipsis,original,ellipsis_526
+Что купил Иван? __ Машину.,Иван купил,answer ellipsis,original,ellipsis_527
+Куда ты собираешься пойти? __ В магазин.,Я собираюсь пойти,answer ellipsis,original,ellipsis_528
+Какие листья упали с деревьев осенью? __ Желтые.,листья упали с деревьев осенью,answer ellipsis,original,ellipsis_529
+Почему ты не пришел? __ Был занят.,Я не пришел потому что,answer ellipsis,original,ellipsis_530
+Как он сюда попал? __ Через окно.,Он сюда попал,answer ellipsis,original,ellipsis_531
+Какой это этаж? Третий __.,этаж,answer ellipsis,original,ellipsis_532
+Где они живут? __ В Париже.,они живут,answer ellipsis,original,ellipsis_533
+Когда начинается урок? __ В 9 утра.,урок начинается,answer ellipsis,original,ellipsis_534
+Что она купила? __ Новое платье.,она купила,answer ellipsis,original,ellipsis_535
+Кому он звонит? __ Мише.,он звонит,answer ellipsis,original,ellipsis_536
+На чём они поедут? __ На поезде.,они поедут,answer ellipsis,original,ellipsis_537
+Где мы встретимся? __ В кафе.,мы встретимся,answer ellipsis,original,ellipsis_538
+Почему она выбрала этот телефон? __ Из-за камеры.,она выбрала этот телефон,answer ellipsis,original,ellipsis_539
+Куда они летят завтра? __ В Турцию.,они летят завтра,answer ellipsis,original,ellipsis_540
+Что она хочет на день рождения? __ Велосипед.,она хочет на день рождения,answer ellipsis,original,ellipsis_541
+Кто работает в больнице? Алихан __.,работает в больнице,answer ellipsis,original,ellipsis_542
+Что ты обычно ешь на завтрак? __ Омлет.,я обычно ем на завтрак,answer ellipsis,original,ellipsis_543
+Где стоит холодильник? __ На кухне.,холодильник стоит,answer ellipsis,original,ellipsis_544
+Когда ты ложишься спать? __ В 11 вечера.,холодильник стоит,answer ellipsis,original,ellipsis_545
+Откуда ты приехал? __ Из Германии.,я приехал,answer ellipsis,original,ellipsis_546
+Куда он положил ключи? __ На стол.,он положил ключи,answer ellipsis,original,ellipsis_547
+Чей это кот? __ Петин __.,"это, кот",answer ellipsis,original,ellipsis_548
+Где он был вчера вечером? __ В кино.,он был вчера вечером,answer ellipsis,original,ellipsis_549
+Когда она приедет? __Утром.,она приедет,answer ellipsis,original,ellipsis_550
+Сколько человек придёт на вечеринку? Десять человек __.,придёт на вечеринку,answer ellipsis,original,ellipsis_551
+Как долго он учит русский язык? __ Два года.,он учит русский язык,answer ellipsis,original,ellipsis_552
+Как часто он ходит в спортзал? __ Три раза в неделю.,он ходит в спортзал,answer ellipsis,original,ellipsis_553
+На чём ты добираешься до работы? __ На автобусе.,я добираюсь до работы,answer ellipsis,original,ellipsis_554
+Сколько чашек кофе бариста выпивает за день? __ Пять чашек кофе.,бариста выпивает за день,answer ellipsis,original,ellipsis_555
+До какого часа Петя будет в офисе завтра? __ До семи часов.,Петя будет в офисе завтра,answer ellipsis,original,ellipsis_556
+Что он пытался сделать? __ Починить машину.,он пытался,answer ellipsis,original,ellipsis_557
+Что ты купил в магазине? __ Хлеб и молоко.,я купил в магазине,answer ellipsis,original,ellipsis_558
+Где стоит новый магазин? __ Напротив парка., новый магазин стоит,answer ellipsis,original,ellipsis_559
+Почему он опоздал? __ Потому что проспал.,он опоздал,answer ellipsis,original,ellipsis_560
+Как можно добраться до вокзала? __ На автобусе номер 5.,можно добраться до вокзала,answer ellipsis,original,ellipsis_561
+Сколько стоит эта книга? __ Двести рублей.,эта книга стоит,answer ellipsis,original,ellipsis_562
+Кому он позвонил? __ Своей подруге.,он позвонил,answer ellipsis,original,ellipsis_563
+Чей это кот? __ Моей соседки.,это кот,answer ellipsis,original,ellipsis_564
+Какой фильм он смотрел? __ Новый боевик.,он смотрел,answer ellipsis,original,ellipsis_565
+Кому он подарил цветы? __ Сестре.,он подарил цветы,answer ellipsis,original,ellipsis_566
+О ком он говорил вчера? __ О нашем учителе.,он говорил вчера,answer ellipsis,original,ellipsis_567
+"Кто из твоих друзей свободно говорит по-китайски?
+Только Лена __ — она училась в Шанхае два года.",свободно говорит по-китайски,answer ellipsis,original,ellipsis_568
+Что директор обсуждал с коллегами на совещании? __ Бюджет на следующий квартал и новые проекты.,директор обсуждал с коллегами на совещании,answer ellipsis,original,ellipsis_569
+"Что его больше всего удивило в этой книге? __ То, как автор описывает будущее — очень неожиданно и реалистично.",его больше всего удивило в этой книге,answer ellipsis,original,ellipsis_570
+"Где мы оставили ключи от машины вчера вечером? __ На кухонном столе, но я точно не помню.",мы оставили ключи от машины вчера вечером,answer ellipsis,original,ellipsis_571
+"Где ты хочешь провести отпуск в этом году? __ В Грузии — там и горы, и море, и потрясающая кухня.",я хочу провести отпуск в этом году,answer ellipsis,original,ellipsis_572
+Кто же с собакой гулять будет? Павел __!,с собакой гулять будет,answer ellipsis,original,ellipsis_573
+На ком Сережа женился? __ На своей подруге детства.,Сережа женился,answer ellipsis,original,ellipsis_574
+Кому он должен денег? __ Ване.,он должен денег,answer ellipsis,original,ellipsis_575
+Какую школу он закончил? __ Лицей НИУ ВШЭ.,он закончил,answer ellipsis,original,ellipsis_576
+Где ты был на каникулах? __ В Архангельске.,я был на каникулах,answer ellipsis,original,ellipsis_577
+Когда мы пойдем в кино? __ Сразу после обеда,мы пойдем в кино,answer ellipsis,original,ellipsis_578
+Когда ты в последний раз был в театре? __ Год назад.,я в последний раз был в театре,answer ellipsis,original,ellipsis_579
+Почему в метро сегодня такие пробки? __ Потому что на синей линии авария.,в метро сегодня такие пробки,answer ellipsis,original,ellipsis_580
+Как блогеры находят новых клиентов для своего бизнеса? __ Через Instagram-рекламу.,блогеры находят новых клиентов для своего бизнеса,answer ellipsis,original,ellipsis_581
+Кому посвящено это стихотворение? __ Его няне.,это стихотворение посвящено,answer ellipsis,original,ellipsis_582
+"Сколько человек пришло на мастер-класс? Около сорока __, хотя регистрировалось больше.",пришло на мастер-класс,answer ellipsis,original,ellipsis_583
+О ком вы говорили вчера за ужином? __ О нашем бывшем однокласснике.,мы говорили вчера за ужином,answer ellipsis,original,ellipsis_584
+"Где и когда ты научился играть на гитаре так хорошо? __ В университете, на первом курсе.",я научился играть на гитаре так хорошо,answer ellipsis,original,ellipsis_585
+Кому он наврал? - __ Своей сестре.,он наврал,answer ellipsis,original,ellipsis_586
+Где ты купила такие брюки? __ На рынке в Тольятти,я купила такие брюки,answer ellipsis,original,ellipsis_587
+Где Вика записывает треки? __ На студии,Вика записывает треки,answer ellipsis,original,ellipsis_588
+В каком спектакле играет этот актер? __ В Пер Гюнте.,этот актер играет,answer ellipsis,original,ellipsis_589
+Какой у него никнейм в телеграмме? __ Бычий Цепень.,у него никнейм в телеграмме,answer ellipsis,original,ellipsis_590
+Что он читает в свободное время? __ Посты про Индию и Пакистан.,он читает в свободное время,answer ellipsis,original,ellipsis_591
+Какой у него любимый день недели? __ Суббота.,у него любимый день недели,answer ellipsis,original,ellipsis_592
+Во сколько кафе сегодня закрывается? __ В 20:00.,кафе сегодня закрывается,answer ellipsis,original,ellipsis_593
+Кто является владельцем сети гипермаркетов Ашан? Auchan Retail __.,является владельцем сети гипермаркетов Ашан,answer ellipsis,original,ellipsis_594
+Где он учится? __ В МГУ.,он учится,answer ellipsis,original,ellipsis_595
+Когда он вернется? __ В пятницу,он вернется,answer ellipsis,original,ellipsis_596
+Кто Катин любимый писатель? __ Стивен Кинг.,Катин любимый писатель,answer ellipsis,original,ellipsis_597
+Что вы ели на завтрак? __ Омлет с сосиской.,мы ели на завтрак,answer ellipsis,original,ellipsis_598
+Когда Машу взяли на работу? __ В прошлом месяце.,Машу взяли на работу,answer ellipsis,original,ellipsis_599
+Кого Олег позовет на бал? __ Свою одногруппницу Машу .,Олег позовет на бал,answer ellipsis,original,ellipsis_600
+Где можно соотавить свои вещи? __ В гардеробе.,можно соотавить свои вещи,answer ellipsis,original,ellipsis_601
+Кто был первым президентом США? Джордж Вашингтон __.,был первым президентом США,answer ellipsis,original,ellipsis_602
+Сколько континентов на Земле? __ Шесть континентов.,на Земле,answer ellipsis,original,ellipsis_603
+Где изобрели бумагу? В Китае __.,изобрели бумагу,answer ellipsis,original,ellipsis_604
+Кто открыл Америку? Христофор Колумб __.,открыл Америку,answer ellipsis,original,ellipsis_605
+Где живут пингвины? __ В Антарктиде и других холодных регионах.,пингвины живут,answer ellipsis,original,ellipsis_606
+Где можно увидеть северное сияние? __ За Полярным кругом.,можно увидеть северное сияние,answer ellipsis,original,ellipsis_607
+Когда была построена Великая Китайская стена? __ В III веке до н. э.,Великая Китайская стена была построена,answer ellipsis,original,ellipsis_608
+"Какой бренд принадлежит Илону Маску? SpaceX, Tesla, Neuralink, The Boring Company и X (бывший Twitter) __.",принадлежат Илону Маску,answer ellipsis,original,ellipsis_609
+"Что производит компания Samsung? __ Телевизоры, смартфоны, чипы, бытовую технику и даже корабли.",компания Samsung производит,answer ellipsis,original,ellipsis_610
+Кто основал Amazon? Джефф Безос __.,основал Amazon,answer ellipsis,original,ellipsis_611
+"Что изобрел Никола Тесла? __ Переменный ток, катушку Теслы и множество других электротехнических устройств.",Никола Тесла изобрел,answer ellipsis,original,ellipsis_612
+Что у нас сегодня на ужин? __ Паста карбонара.,у нас сегодня на ужин,answer ellipsis,original,ellipsis_613
+Как мало мы о них знаем: Кто заснул первым? Рептилии __!,заснули первыми,answer ellipsis,"[Кто заснул первым? // «Знание -- сила», 2003]",ellipsis_614
+Кого он искал сегодня в университете? __ Валерия Михайловича.,он искал сегодня в университете,answer ellipsis,original,ellipsis_615
+Сколько стоит этот телефон? – Двадцать тысяч рублей __.,стоит этот телефон,answer ellipsis,original,ellipsis_616
+Кто разбил вазу? – Кошка __.,разбила вазу,answer ellipsis,original,ellipsis_617
+Кто забыл зонт в автобусе? – Молодой человек в чёрной куртке __.,забыл зонт в автобусе,answer ellipsis,original,ellipsis_618
+Когда начался дождь? – __ Час назад.,дождь начался,answer ellipsis,original,ellipsis_619
+Кто разговаривал в библиотеке? – Два студента __.,разговаривали в библиотеке,answer ellipsis,original,ellipsis_620
+Что упало со стола? – Тарелка __.,упала со стола,answer ellipsis,original,ellipsis_621
+Кто принёс эти документы? – Секретарь директора __.,принёс эти документы,answer ellipsis,original,ellipsis_622
+Когда откроют новый магазин? – В следующем месяце __.,откроют новый магазин,answer ellipsis,original,ellipsis_623
+Что подарят директору на юбилей? __ Красивый ежедневник с гравировкой.,директору на юбилей подарят,answer ellipsis,original,ellipsis_624
+Где можно купить свежие фрукты? __ На рынке возле площади.,свежие фрукты можно купить,answer ellipsis,original,ellipsis_625

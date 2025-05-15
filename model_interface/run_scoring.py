@@ -2,12 +2,13 @@ import os
 import json
 import re
 import string
+import random
 import pandas as pd
 import numpy as np
 from datetime import datetime
 from pydantic import BaseModel, Field
 from tqdm import tqdm
-from sklearn.metrics import accuracy_score, recall_score, f1_score, precision_score
+from sklearn.metrics import accuracy_score, recall_score, f1_score, precision_score, classification_report
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import PromptTemplate
@@ -158,6 +159,117 @@ def score_disrpt(model_name, temperature):
     pd.DataFrame(results).to_csv(filename, index=False)
 
     return metrics, filename
+
+
+def extract_answer(raw_answer: str):
+    cleaned = re.sub(r'[\"\'{}\[\]\(\)]', '', str(raw_answer).strip())
+    if cleaned.isdigit():
+        return int(cleaned)
+    explicit_match = re.search(r'(?:Ответ|ответ|Answer|answer|ans|ANS)[:\s]*(\d+)', cleaned, re.IGNORECASE)
+    if explicit_match:
+        return int(explicit_match.group(1))
+    digit_match = re.search(r'\b(\d+)\b', cleaned)
+    if digit_match:
+        return int(digit_match.group(1))
+    binary_match = re.search(r'[^0-9]([01])(?![0-9])', cleaned)
+    if binary_match:
+        return int(binary_match.group(1))
+    return None
+
+def generate_prompt(mode, **kwargs):
+    base_instruction = (
+        "Инструкция: Внимательно прочитай задание и дай точный ответ в требуемом формате.\n"
+        "Твой ответ должен содержать ТОЛЬКО номер правильного варианта в строгом формате:\n"
+        "\"Ответ: [номер]\"\n"
+        "Никаких дополнительных объяснений, обоснований или текста после ответа быть не должно.\n"
+    )
+    if mode == 'meaning':
+        return base_instruction + f"\nЗадание: Определи, какое значение соответствует данному выражению в данном контексте.\nВыражение: {kwargs['idiom']}\nКонтекст: {kwargs['example']}\nВарианты ответа: {kwargs['possible_meanings']}\nОтвет:\n"
+    elif mode == 'text':
+        return base_instruction + f"\nЗадание: Определи, в каком тексте выражение означает указанное значение.\nВыражение: {kwargs['idiom']}\nЗначение: {kwargs['current_meaning']}\nТексты: {kwargs['texts']}\nОтвет:\n"
+    elif mode == 'literal':
+        return base_instruction + f"\nЗадание: Определи, используется ли выражение в прямом или переносном смысле.\nВыражение: {kwargs['idiom']}\nКонтекст: {kwargs['text']}\nВарианты: 0 - буквальное значение, 1 - переносное значение\nОтвет:\n"
+    else:
+        raise ValueError(f"Unknown mode: {mode}")
+
+def score_idioms(model, api_key, base_url, n_samples=50):
+    """
+    Оценивает три задачи по идиомам: literal, meaning, text.
+    Возвращает словарь с метриками для каждой задачи.
+    """
+    # Load all three datasets
+    with open('../data/idiom_literal.json') as f:
+        literal_data = json.load(f)
+    with open('../data/idiom_two_meanings.json') as f:
+        meaning_data = json.load(f)
+    with open('../data/idiom_three_texts.json') as f:
+        text_data = json.load(f)
+
+    def ask_model(dct, mode, n_samples):
+        sampled_keys = random.sample(list(dct), min(n_samples, len(dct)))
+        sampled_data = {k: dct[k] for k in sampled_keys}
+        df = pd.DataFrame(columns=['task_id', 'idiom', 'meaning', 'label', 'answer'])
+        from langchain_openai import ChatOpenAI
+        llm = ChatOpenAI(model=model, api_key=api_key, base_url=base_url, temperature=0)
+        for i, info in sampled_data.items():
+            idiom = info.get('idiom', '')
+            current_meaning = info.get('current_meaning', '')
+            label = info.get('correct_label', '')
+            task_id = i
+            try:
+                if mode == 'meaning':
+                    options = info['possible_meanings']
+                    text = info['example']
+                    prompt = generate_prompt(mode, idiom=idiom, example=text, possible_meanings=options)
+                elif mode == 'text':
+                    texts = info['texts']
+                    prompt = generate_prompt(mode, idiom=idiom, current_meaning=current_meaning, texts=texts)
+                elif mode == 'literal':
+                    text = info['text']
+                    prompt = generate_prompt(mode, idiom=idiom, text=text)
+                else:
+                    continue
+                ans = llm.invoke(prompt).content
+                df.loc[len(df)] = [task_id, idiom, current_meaning, label, ans]
+            except Exception as e:
+                print(f"Ошибка: {str(e)}")
+        return df
+
+    def count_metrics(df):
+        df = df.copy()
+        df['ans'] = df['answer'].apply(extract_answer)
+        df = df.dropna()
+        y_true = df['label'].astype(int)
+        y_pred = df['ans'].astype(int)
+        return {
+            'accuracy': accuracy_score(y_true, y_pred),
+            'recall': recall_score(y_true, y_pred, average='macro', zero_division=0),
+            'f1': f1_score(y_true, y_pred, average='macro', zero_division=0),
+            'precision': precision_score(y_true, y_pred, average='macro', zero_division=0),
+            'report': classification_report(y_true, y_pred, zero_division=0, output_dict=True)
+        }
+
+    # Run all three tasks
+    literal_df = ask_model(literal_data, 'literal', n_samples)
+    meaning_df = ask_model(meaning_data, 'meaning', n_samples)
+    text_df = ask_model(text_data, 'text', n_samples)
+
+    metrics = {
+        'literal': count_metrics(literal_df),
+        'meaning': count_metrics(meaning_df),
+        'text': count_metrics(text_df)
+    }
+
+    # Optionally, save answers to CSV
+    timestamp = pd.Timestamp.now().strftime('%Y%m%d_%H%M%S')
+    literal_df.to_csv(f'idioms_literal_{timestamp}.csv', index=False)
+    meaning_df.to_csv(f'idioms_meaning_{timestamp}.csv', index=False)
+    text_df.to_csv(f'idioms_text_{timestamp}.csv', index=False)
+
+    with open(f'idioms_metrics_{timestamp}.json', 'w') as f:
+        json.dump(metrics, f, indent=2, ensure_ascii=False)
+
+    return metrics
 
 def run_all(model_name, temperature):
     """Run all scoring functions and save metrics to JSON."""

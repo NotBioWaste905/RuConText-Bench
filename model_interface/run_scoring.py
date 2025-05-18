@@ -385,6 +385,47 @@ def score_idioms(model, api_key, base_url, n_samples=50):
     print("[INFO] Idioms scoring complete. Results saved to:", literal_csv, meaning_csv, text_csv)
     return metrics, [literal_csv, meaning_csv, text_csv]
 
+def score_coref_anaphoric(model_name, temperature):
+    # Load data
+    with open("C:/maga/context LLM (ПИС)/RuConText-Bench/data/coref__anaph_ref_choice_questions.json", "r", encoding='utf-8') as f:
+        data = json.load(f)
+    
+    # Initialize model
+    model = ChatOpenAI(
+        model=model_name, api_key=API_KEY, base_url=BASE_URL, temperature=temperature
+    )
+    structured_llm = model.with_structured_output(Answer)
+
+    # Generate model answers
+    print("[INFO] Starting disrpt scoring...")
+    df = pd.DataFrame(columns=['text', 'quest pronoun', 'variants', 'gold answer', "model answer"])
+    for q_obj in tqdm(data[:3], desc="Scoring coreference, task 1"):
+        ans = model.invoke('Ответь на вопрос по этому фрагменту текста: "' + q_obj['paragraph']["text"] 
+            + '"\nТебе нужно понять, к какой сущности относится это упоминание: "' + q_obj['anaphoric span']
+            + '". Из предложенных ниже выбери упоминание, которое тоже относится к этой сущности\nВарианты ответа:\n'
+            + f'1. {q_obj['variants'][0]};\n2. {q_obj['variants'][1]};\n3. {q_obj['variants'][2]}'
+            + '\nНапиши только варинат ответа, 1, 2 или 3, без комментариев и знаков препинания.').content
+        df.loc[len(df)] = [q_obj['paragraph']["text"], q_obj['anaphoric span'],  q_obj['variants'], q_obj['gold answer'], ans]
+
+    # Calculate metrics
+    y_true = list(df['model answer'])
+    y_pred = list(df['gold answer'])
+
+    metrics = {
+        "accuracy": accuracy_score(y_true, y_pred),
+        "recall": recall_score(y_true, y_pred, average="macro"),
+        "f1": f1_score(y_true, y_pred, average="macro"),
+        "precision": precision_score(y_true, y_pred, average="macro"),
+    }
+    # Save answers to CSV
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+
+    filename = f"disrpt_{model_name}_temp{temperature}_{timestamp}.csv"
+    df.to_csv(filename, index=False)
+
+    print("[INFO] Disrpt scoring complete. Results saved to:", filename)
+    return metrics, filename
+
 
 def run_all(model_name, temperature):
     print("[INFO] Running all scoring tasks...")
@@ -417,3 +458,5 @@ if __name__ == "__main__":
     model_name = "gpt-4o-mini"
     temperature = 0
     run_all(model_name, temperature)
+
+

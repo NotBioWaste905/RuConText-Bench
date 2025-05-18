@@ -387,14 +387,13 @@ def score_idioms(model, api_key, base_url, n_samples=50):
 
 def score_coref_anaphoric(model_name, temperature):
     # Load data
-    with open("C:/maga/context LLM (ПИС)/RuConText-Bench/data/coref__anaph_ref_choice_questions.json", "r", encoding='utf-8') as f:
+    with open("/data/coref__anaph_ref_choice_questions.json", "r", encoding='utf-8') as f:
         data = json.load(f)
     
     # Initialize model
     model = ChatOpenAI(
         model=model_name, api_key=API_KEY, base_url=BASE_URL, temperature=temperature
     )
-    structured_llm = model.with_structured_output(Answer)
 
     # Generate model answers
     print("[INFO] Starting disrpt scoring...")
